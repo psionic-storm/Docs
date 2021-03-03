@@ -8,13 +8,14 @@
 |:-:|:-:|:-|:-:|
 |1|2021.03.02|✅ Set up the development environment(API)<br>✅ Local authentication(API)|-<br>-|
 |2|2021.03.03|✅ Set up the development environment(Web)<br>✅ Set up Docs(Docs)|-<br>-|
-|3|2021.03.04|😱 Flow Chart(Web)<br>😱 Figma Design(Web)|-<br>-|
+|3|2021.03.04|✅ Mind map(API)<br>😱 Flow Chart(Web)<br>😱 Figma Design(Web)|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)<br>-<br>-|
 ## 🦇 Todo
 ### API
 |No.|✅/😱|Todo|Start|End|Output|
 |:-:|:-:|:-|:-:|:-:|:-:|
 |1|✅|Set up the development environment|2021.03.02|2021.03.02|-|
 |2|✅|Local authentication|2021.03.02|2021.03.03|-|
+|3|✅|Mind map|2021.03.04|2021.03.03|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
 
 ### Web
 |No.|✅/😱|Todo|Start|End|Output|
@@ -36,6 +37,7 @@
 ## 🐫 Output
 |No.|Category|Output|
 |:-:|-|:-:|
+|1|Service structure|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
 |1|Design|-|
 
 ## 🐊 Reference
@@ -48,5 +50,5 @@
 |Auth|[Refresh token은 필요한가?](https://zzossig.io/posts/etc/what_is_the_point_of_refresh_token/)|
 |HTTP|[201 Created](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/201)|
 |Regex|[Regex to test if string begins with http:// or https://](https://stackoverflow.com/questions/4643142/regex-to-test-if-string-begins-with-http-or-https)|
-|Terms|[upsert](https://en.wiktionary.org/wiki/upsert)|
+|Terms|[Upsert](https://en.wiktionary.org/wiki/upsert)|
 |General|[Software Engineering "Best Practices"](https://www.youtube.com/watch?v=gc8mDZwUlfo&t=5s)<br>[The mind behind Linux \| Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE&t=157s)|
