@@ -1,15 +1,15 @@
-## 🐌 Daily Notes
+## 🐌 Daily Note
 |No.|Date|Note|
 |-|-|-|
 |1|2021.03.02|졸리면 눕고 피곤하면 잔다. 안 졸릴 땐 여기로 온다. 일단 잔다.|
-|2|2021.03.03|오늘도 별 일 없었다
-## 🐛 Daily Todos
+|2|2021.03.03|오늘도 별 일 없었다|
+## 🐛 Daily Todo
 |No.|Date|Todo|Output|
 |:-:|:-:|:-|:-:|
 |1|2021.03.02|✅ Set up the development environment(API)<br>✅ Local authentication(API)|-<br>-|
 |2|2021.03.03|✅ Set up the development environment(Web)<br>✅ Set up Docs(Docs)|-<br>-|
 |3|2021.03.04|😱 Flow Chart(Web)<br>😱 Figma Design(Web)|-<br>-|
-## 🦇 Todos
+## 🦇 Todo
 |No.|✅/😱|Todo|Start|End|Output|
 |:-:|:-:|:-|:-:|:-:|:-:|
 |1|✅|Set up the development environment|2021.03.02|2021.03.02|-|
@@ -32,12 +32,12 @@
 |:-:|:-:|:-|:-:|:-:|:-:|
 |1|😱|Set up the development environment|???|???|-|
 
-## 🐫 Outputs
+## 🐫 Output
 |No.|Category|Output|
 |:-:|-|:-:|
 |1|Design|-|
 
-## 🐊 References
+## 🐊 Reference
 |Category|Reference|
 |-|-|
 |Javascript|[JavaScript CommonJS, ES6 모듈 시스템](https://bigstar-vlog.tistory.com/29)<br>|
