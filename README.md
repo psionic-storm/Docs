@@ -11,19 +11,19 @@
 <br>
 
 # Todos
-## Web
+### Web
 - []
-## API
-## Desktop
-## Mobile
+### API
+### Desktop
+### Mobile
 
 <br>
 
 # Outputs
-## Design
-## Design System
-## API Docs
-## ERD
+### Design
+### Design System
+### API Docs
+### ERD
 
 <br>
 
