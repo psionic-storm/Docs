@@ -4,41 +4,41 @@
 |1|2021.03.02|졸리면 눕고 피곤하면 잔다|
 |2|2021.03.03|오늘도 별 일 없었다|
 ## 🐛 Daily Todo
-|No.|Date|Project|Todo|Output|
-|:-:|:-:|:-:|:-|:-:|
-|1|2021.03.02|API<br>API|✅ Set up the development environment<br>✅ Local authentication|-<br>-|
-|2|2021.03.03|Web<br>Docs|✅ Set up the development environment<br>✅ Set up Docs|-<br>-|
-|3|2021.03.04|API<br>Web<br>Web|✅ Mind map<br>✅ Flow chart<br>😱 Figma Design|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flow chart](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
+|No.|Date|Project|Category|Todo|Output|
+|:-:|:-:|:-:|:-:|:-|:-:|
+|1|2021.03.02|API<br>API|Env<br>Feature|✅ Set up the development environment<br>✅ Local authentication|-<br>-|
+|2|2021.03.03|Web<br>Docs|Env<br>Docs|✅ Set up the development environment<br>✅ Set up Docs|-<br>-|
+|3|2021.03.04|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Mind map<br>✅ Flow chart<br>😱 Figma Design|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flow chart](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
 ## 🦇 Todo
 ### API
-|No.||Todo|Start|End|Output|
-|:-:|:-:|:-|:-:|:-:|:-:|
-|1|✅|Set up the development environment|2021.03.02|2021.03.02|-|
-|2|✅|Local authentication|2021.03.02|2021.03.03|-|
-|3|✅|Mind map|2021.03.04|2021.03.04|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
+|No.||Category|Todo|Start|End|Output|
+|:-:|:-:|:-:|:-|:-:|:-:|:-:|
+|1|✅|Env|Set up the development environment|2021.03.02|2021.03.02|-|
+|2|✅|Feature|Local authentication|2021.03.02|2021.03.03|-|
+|3|✅|Docs|Mind map|2021.03.04|2021.03.04|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
 
 ### Web
-|No.||Todo|Start|End|Output|
-|:-:|:-:|:-|:-:|:-:|:-:|
-|1|✅|Set up the development environment|2021.03.02|2021.03.02|-|
-|2|✅|Flow chart|2021.03.04|2021.03.04|[Flow chart](https://miro.com/app/board/o9J_lRFb2fY=/)|
-|3|😱|Figma Design|2021.03.04|2021.03.05|-|
-|4|😱|Mark-up|2021.03.06|2021.03.07|-|
+|No.||Category|Todo|Start|End|Output|
+|:-:|:-:|:-:|:-|:-:|:-:|:-:|
+|1|✅|Env|Set up the development environment|2021.03.02|2021.03.02|-|
+|2|✅|Docs|Flow chart|2021.03.04|2021.03.04|[Flow chart](https://miro.com/app/board/o9J_lRFb2fY=/)|
+|3|😱|Design|Figma Design|2021.03.04|2021.03.05|-|
+|4|😱|Feature|Mark-up|2021.03.06|2021.03.07|-|
 
 ### Desktop
-|No.||Todo|Start|End|Output|
-|:-:|:-:|:-|:-:|:-:|:-:|
-|1|😱|Set up the development environment|???|???|-|
+|No.||Category|Todo|Start|End|Output|
+|:-:|:-:|:-:|:-|:-:|:-:|:-:|
+|1|😱|Env|Set up the development environment|???|???|-|
 ### Mobile
-|No.||Todo|Start|End|Output|
-|:-:|:-:|:-|:-:|:-:|:-:|
-|1|😱|Set up the development environment|???|???|-|
+|No.||Category|Todo|Start|End|Output|
+|:-:|:-:|:-:|:-|:-:|:-:|:-:|
+|1|😱|Env|Set up the development environment|???|???|-|
 
 ## 🐫 Output
 |No.|Project|Category|Output|
 |:-:|:-:|:-:|:-:|
-|1|API|Service Structure|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
-|2|Web|Service Structure|[Flow chart](https://miro.com/app/board/o9J_lRFb2fY=/)|
+|1|API|Docs|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
+|2|Web|Docs|[Flow chart](https://miro.com/app/board/o9J_lRFb2fY=/)|
 |3|Web|Design|-|
 
 ## 🐊 Reference
