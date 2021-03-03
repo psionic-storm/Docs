@@ -16,7 +16,7 @@
 
 |Date|Todos|
 |-|-|
-|2020.03.02|<input type="checkbox">개발환경 세팅(API) <br> <input type="checkbox" checked> 로컬 인증 API 세팅(API)<br><input type="checkbox" checked> 개발환경 세팅(Web)<br>|
+|2020.03.02|&check; 개발환경 세팅(API) <br> <input type="checkbox" checked> 로컬 인증 API 세팅(API)<br><input type="checkbox" checked> 개발환경 세팅(Web)<br>|
 
 ## 🦇 Todos
 ### Web
