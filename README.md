@@ -15,7 +15,7 @@
 |:-:|:-:|:-|:-:|:-:|:-:|
 |1|✅|Set up the development environment|2021.03.02|2021.03.02|-|
 |2|✅|Local authentication|2021.03.02|2021.03.03|-|
-|3|✅|Mind map|2021.03.04|2021.03.03|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
+|3|✅|Mind map|2021.03.04|2021.03.04|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
 
 ### Web
 |No.||Todo|Start|End|Output|
