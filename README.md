@@ -8,7 +8,7 @@
 |:-:|:-:|:-:|:-|:-:|
 |1|2021.03.02|API<br>API|✅ Set up the development environment<br>✅ Local authentication|-<br>-|
 |2|2021.03.03|Web<br>Docs|✅ Set up the development environment<br>✅ Set up Docs|-<br>-|
-|3|2021.03.04|API<br>Web<br>Web|✅ Mind map<br>😱 Flow Chart<br>😱 Figma Design|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)<br>-<br>-|
+|3|2021.03.04|API<br>Web<br>Web|✅ Mind map<br>✅ Flow Chart<br>😱 Figma Design|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flow Chart](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
 ## 🦇 Todo
 ### API
 |No.||Todo|Start|End|Output|
@@ -21,7 +21,7 @@
 |No.||Todo|Start|End|Output|
 |:-:|:-:|:-|:-:|:-:|:-:|
 |1|✅|Set up the development environment|2021.03.02|2021.03.02|-|
-|2|😱|Flow Chart|2021.03.04|2021.03.04|-|
+|2|✅|Flow Chart|2021.03.04|2021.03.04|[Flow Chart](https://miro.com/app/board/o9J_lRFb2fY=/)|
 |3|😱|Figma Design|2021.03.04|2021.03.05|-|
 |4|😱|Mark-up|2021.03.06|2021.03.07|-|
 
@@ -37,8 +37,9 @@
 ## 🐫 Output
 |No.|Project|Category|Output|
 |:-:|:-:|:-:|:-:|
-|1|API|Service structure|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
-|1|Web|Design|-|
+|1|API|Service Structure|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
+|2|Web|Service Structure|[Flow Chart](https://miro.com/app/board/o9J_lRFb2fY=/)|
+|3|Web|Design|-|
 
 ## 🐊 Reference
 📕 Official document  
