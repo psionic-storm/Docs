@@ -49,4 +49,4 @@
 |HTTP|[201 Created](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/201)|
 |Regex|[Regex to test if string begins with http:// or https://](https://stackoverflow.com/questions/4643142/regex-to-test-if-string-begins-with-http-or-https)|
 |Terms|[upsert](https://en.wiktionary.org/wiki/upsert)|
-|General|[Software Engineering "Best Practices"](https://www.youtube.com/watch?v=gc8mDZwUlfo&t=5s)<br>[The mind behind Linux | Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE&t=157s)|
+|General|[Software Engineering "Best Practices"](https://www.youtube.com/watch?v=gc8mDZwUlfo&t=5s)<br>[The mind behind Linux \| Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE&t=157s)|
