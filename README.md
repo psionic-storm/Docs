@@ -6,29 +6,34 @@
 ## 🐛 Daily Todos
 |No.|Date|Todo|Output|
 |:-:|:-:|:-|:-:|
-|1|2021.03.02|✅ 개발환경 세팅(API)<br>✅ 로컬 인증 API 세팅(API)|-<br>-|
-|2|2021.03.03|✅ 개발환경 세팅(Web)<br>✅ Docs 레이아웃 세팅(Docs)|-<br>-|
-|3|2021.03.04|😱 Flow Chart<br>😱 Figma 디자인(Web)|-<br>-|
+|1|2021.03.02|✅ Set up the development environment(API)<br>✅ Local authentication(API)|-<br>-|
+|2|2021.03.03|✅ Set up the development environment(Web)<br>✅ Set up Docs(Docs)|-<br>-|
+|3|2021.03.04|😱 Flow Chart(Web)<br>😱 Figma Design(Web)|-<br>-|
 ## 🦇 Todos
+|No.|✅/😱|Todo|Start|End|Output|
+|:-:|:-:|:-|:-:|:-:|:-:|
+|1|✅|Set up the development environment|2021.03.02|2021.03.02|-|
+|2|✅|Local authentication|2021.03.02|2021.03.03|-|
+
 ### Web
 |No.|✅/😱|Todo|Start|End|Output|
 |:-:|:-:|:-|:-:|:-:|:-:|
-|1|✅|개발환경 세팅|2021.03.02|2021.03.02|-|
+|1|✅|Set up the development environment|2021.03.02|2021.03.02|-|
 |2|😱|Flow Chart|2021.03.04|2021.03.04|-|
-|3|😱|Figma 디자인|2021.03.04|2021.03.05|-|
+|3|😱|Figma Design|2021.03.04|2021.03.05|-|
 |4|😱|Mark-up|2021.03.06|2021.03.07|-|
 
 ### Desktop
 |No.|✅/😱|Todo|Start|End|Output|
 |:-:|:-:|:-|:-:|:-:|:-:|
-|1|😱|개발환경 세팅|???|???|-|
+|1|😱|Set up the development environment|???|???|-|
 ### Mobile
 |No.|✅/😱|Todo|Start|End|Output|
 |:-:|:-:|:-|:-:|:-:|:-:|
-|1|😱|개발환경 세팅|???|???|-|
+|1|😱|Set up the development environment|???|???|-|
 
 ## 🐫 Outputs
-|No.|Category|Content|
+|No.|Category|Output|
 |:-:|-|:-:|
 |1|Design|-|
 ### ERD
