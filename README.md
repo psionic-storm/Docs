@@ -10,6 +10,7 @@
 |2|2021.03.03|✅ Set up the development environment(Web)<br>✅ Set up Docs(Docs)|-<br>-|
 |3|2021.03.04|😱 Flow Chart(Web)<br>😱 Figma Design(Web)|-<br>-|
 ## 🦇 Todo
+### API
 |No.|✅/😱|Todo|Start|End|Output|
 |:-:|:-:|:-|:-:|:-:|:-:|
 |1|✅|Set up the development environment|2021.03.02|2021.03.02|-|
