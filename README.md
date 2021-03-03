@@ -36,7 +36,6 @@
 |No.|Category|Output|
 |:-:|-|:-:|
 |1|Design|-|
-### ERD
 
 ## 🐊 References
 |Category|Reference|
