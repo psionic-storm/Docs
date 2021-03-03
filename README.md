@@ -41,6 +41,12 @@
 |1|Web|Design|-|
 
 ## 🐊 Reference
+📕 Official document  
+📃 Semi-official document  
+🖋 Blog Post  
+❓ Stackoverflow  
+🎥 Video  
+
 |Category|Reference|
 |-|-|
 |Javascript|[🖋 JavaScript CommonJS, ES6 모듈 시스템](https://bigstar-vlog.tistory.com/29)<br>|
