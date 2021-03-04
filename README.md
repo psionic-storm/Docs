@@ -44,7 +44,7 @@
 ## 🐊 Reference
 📕 Official document  
 📃 Semi-official document  
-📝 Academic paper
+📝 Academic paper  
 🖋 Blog post  
 ❓ Stackoverflow  
 🎥 Video  
