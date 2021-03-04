@@ -1,28 +1,23 @@
-## 🐌 Daily Note
-|No.|Date|Note|
-|-|-|-|
-|1|2021.03.02|졸리면 눕고 피곤하면 잔다|
-|2|2021.03.03|오늘도 별 일 없었다|
 ## 🐛 Daily Todo
 |No.|Date|Project|Category|Todo|Output|
 |:-:|:-:|:-:|:-:|:-|:-:|
 |1|2021.03.02|API<br>API|Env<br>Feature|✅ Set up the development environment<br>✅ Local authentication|-<br>-|
 |2|2021.03.03|Web<br>Docs|Env<br>Docs|✅ Set up the development environment<br>✅ Set up Docs|-<br>-|
-|3|2021.03.04|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Mind map<br>✅ Flow chart<br>😱 Figma Design|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flow chart](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
+|3|2021.03.04|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Set up Mind map<br>✅ Set up Flow chart<br>😱 Set up Figma design|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flow chart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
 ## 🦇 Todo
 ### API
 |No.||Category|Todo|Start|End|Output|
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|
 |1|✅|Env|Set up the development environment|2021.03.02|2021.03.02|-|
 |2|✅|Feature|Local authentication|2021.03.02|2021.03.03|-|
-|3|✅|Docs|Mind map|2021.03.04|2021.03.04|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
+|3|✅|Docs|Set up Mind map|2021.03.04|2021.03.04|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)|
 
 ### Web
 |No.||Category|Todo|Start|End|Output|
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|
 |1|✅|Env|Set up the development environment|2021.03.02|2021.03.02|-|
-|2|✅|Docs|Flow chart|2021.03.04|2021.03.04|[Flow chart](https://miro.com/app/board/o9J_lRFb2fY=/)|
-|3|😱|Design|Figma Design|2021.03.04|2021.03.05|-|
+|2|✅|Docs|Set up Flow chart|2021.03.04|2021.03.04|[Flow chart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
+|3|😱|Design|Set up Figma design|2021.03.04|2021.03.05|-|
 |4|😱|Feature|Mark-up|2021.03.06|2021.03.07|-|
 
 ### Desktop
@@ -37,8 +32,8 @@
 ## 🐫 Output
 |No.|Project|Category|Output|
 |:-:|:-:|:-:|:-:|
-|1|API|Docs|[Mind map](https://miro.com/app/board/o9J_lRGt3MI=/)|
-|2|Web|Docs|[Flow chart](https://miro.com/app/board/o9J_lRFb2fY=/)|
+|1|API|Docs|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)|
+|2|Web|Docs|[Flow chart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
 |3|Web|Design|-|
 
 ## 🐊 Reference
