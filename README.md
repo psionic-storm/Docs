@@ -57,6 +57,7 @@
 |Auth|[🖋 Refresh token은 필요한가?](https://zzossig.io/posts/etc/what_is_the_point_of_refresh_token/)|
 |HTTP|[📃 201 Created](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/201)|
 |Regex|[❓ Regex to test if string begins with http:// or https://](https://stackoverflow.com/questions/4643142/regex-to-test-if-string-begins-with-http-or-https)|
+|Versioning|[📕 유의적 버전 2.0.0-ko2](https://semver.org/lang/ko/)<br>[🖋 Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)|
 |Design|[🖋 와디즈의 디자인 시스템 구축](https://medium.com/wadiz/%EC%99%80%EB%94%94%EC%A6%88%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-c7f32a948814)|
 |Terms|[📃 Upsert](https://en.wiktionary.org/wiki/upsert)|
 |General|[🎥 Software Engineering "Best Practices"](https://www.youtube.com/watch?v=gc8mDZwUlfo&t=5s)<br>[🎥 The mind behind Linux \| Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE&t=157s)|
