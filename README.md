@@ -4,6 +4,7 @@
 |1|2021.03.02|API<br>API|Env<br>Feature|✅ Set up the development environment<br>✅ Local authentication|-<br>-|
 |2|2021.03.03|Web<br>Docs|Env<br>Docs|✅ Set up the development environment<br>✅ Set up Docs|-<br>-|
 |3|2021.03.04|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Set up Mind map<br>✅ Set up Flow chart<br>😱 Set up Figma design|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flow chart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
+|4|2021.03.05|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Update Mind map<br>✅ Update Flow chart<br>✅ Set up Figma design|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flow chart v0.2.0](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
 ## 🦇 Todo
 ### API
 |No.||Category|Todo|Start|End|Output|
@@ -11,14 +12,16 @@
 |1|✅|Env|Set up the development environment|2021.03.02|2021.03.02|-|
 |2|✅|Feature|Local authentication|2021.03.02|2021.03.03|-|
 |3|✅|Docs|Set up Mind map|2021.03.04|2021.03.04|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)|
+|4|✅|Docs|Update Mind map|2021.03.05|2021.03.05|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRGt3MI=/)|
 
 ### Web
 |No.||Category|Todo|Start|End|Output|
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|
 |1|✅|Env|Set up the development environment|2021.03.02|2021.03.02|-|
 |2|✅|Docs|Set up Flow chart|2021.03.04|2021.03.04|[Flow chart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
-|3|😱|Design|Set up Figma design|2021.03.04|2021.03.05|-|
-|4|😱|Feature|Mark-up|2021.03.06|2021.03.07|-|
+|3|✅|Design|Set up Figma design|2021.03.04|2021.03.05|-|
+|4|✅|Docs|Update Flow chart|2021.03.04|2021.03.04|[Flow chart v0.2.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
+|5|😱|Feature|Mark-up|2021.03.06|2021.03.07|-|
 
 ### Desktop
 |No.||Category|Todo|Start|End|Output|
@@ -35,6 +38,8 @@
 |1|API|Docs|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)|
 |2|Web|Docs|[Flow chart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
 |3|Web|Design|-|
+|4|API|Docs|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRGt3MI=/)|
+|5|Web|Docs|[Flow chart v0.2.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
 
 ## 🐊 Reference
 📕 Official document  
