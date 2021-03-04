@@ -5,6 +5,7 @@
 |2|2021.03.03|Web<br>Docs|Env<br>Docs|✅ Set up the development environment<br>✅ Set up Docs|-<br>-|
 |3|2021.03.04|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Set up Mind map<br>✅ Set up Flowchart<br>😱 Set up Figma design|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
 |4|2021.03.05|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Update Mind map<br>✅ Update Flowchart<br>✅ Set up Figma design|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)<br>[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)<br>[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
+|4|2021.03.06|Web|Design|😱 Figma design details|-|
 ## 🦇 Todo
 ### API
 |No.||Category|Todo|Start|End|Output|
@@ -21,7 +22,7 @@
 |2|✅|Docs|Set up Flowchart|2021.03.04|2021.03.04|[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
 |3|✅|Design|Set up Figma design|2021.03.04|2021.03.05|[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
 |4|✅|Docs|Update Flowchart|2021.03.04|2021.03.04|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|
-|5|😱|Feature|Mark-up|2021.03.06|2021.03.07|-|
+|5|😱|Design|Figma design details|2021.03.06|2021.03.06|-|
 
 ### Desktop
 |No.||Category|Todo|Start|End|Output|
@@ -57,7 +58,7 @@
 |Express.js|[📕 express.json([options])](https://expressjs.com/en/api.html#express.json)<br>[📕 express.urlencoded([options])](https://expressjs.com/en/api.html#express.urlencoded)|
 |Auth|[🖋 Refresh token은 필요한가?](https://zzossig.io/posts/etc/what_is_the_point_of_refresh_token/)|
 |HTTP|[📃 201 Created](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/201)|
-|REST|📝 [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)<br>[🎥 그런 REST API로 괜찮은가"](https://www.youtube.com/watch?v=RP_f5dMoHFc)|
+|REST|📝 [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)<br>[🎥 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)|
 |Regex|[❓ Regex to test if string begins with http:// or https://](https://stackoverflow.com/questions/4643142/regex-to-test-if-string-begins-with-http-or-https)|
 |Versioning|[📕 유의적 버전 2.0.0-ko2](https://semver.org/lang/ko/)<br>[🖋 Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)|
 |Design|[🖋 와디즈의 디자인 시스템 구축](https://medium.com/wadiz/%EC%99%80%EB%94%94%EC%A6%88%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-c7f32a948814)|
