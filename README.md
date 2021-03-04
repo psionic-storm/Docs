@@ -4,7 +4,7 @@
 |1|2021.03.02|API<br>API|Env<br>Feature|✅ Set up the development environment<br>✅ Local authentication|-<br>-|
 |2|2021.03.03|Web<br>Docs|Env<br>Docs|✅ Set up the development environment<br>✅ Set up Docs|-<br>-|
 |3|2021.03.04|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Set up Mind map<br>✅ Set up Flowchart<br>😱 Set up Figma design|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
-|4|2021.03.05|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Update Mind map<br>✅ Update Flowchart<br>✅ Set up Figma design|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)<br>[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)<br>-|
+|4|2021.03.05|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Update Mind map<br>✅ Update Flowchart<br>✅ Set up Figma design|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)<br>[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)<br>[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
 ## 🦇 Todo
 ### API
 |No.||Category|Todo|Start|End|Output|
@@ -19,7 +19,7 @@
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|
 |1|✅|Env|Set up the development environment|2021.03.02|2021.03.02|-|
 |2|✅|Docs|Set up Flowchart|2021.03.04|2021.03.04|[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
-|3|✅|Design|Set up Figma design|2021.03.04|2021.03.05|-|
+|3|✅|Design|Set up Figma design|2021.03.04|2021.03.05|[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
 |4|✅|Docs|Update Flowchart|2021.03.04|2021.03.04|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|
 |5|😱|Feature|Mark-up|2021.03.06|2021.03.07|-|
 
@@ -37,7 +37,7 @@
 |:-:|:-:|:-:|:-:|
 |1|API|Docs|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)|
 |2|Web|Docs|[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
-|3|Web|Design|-|
+|3|Web|Design|[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
 |4|API|Docs|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)|
 |5|Web|Docs|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|
 
