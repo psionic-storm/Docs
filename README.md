@@ -5,7 +5,7 @@
 |2|2021.03.03|Web<br>Docs|Env<br>Docs|✅ Set up the development environment<br>✅ Set up Docs|-<br>-|
 |3|2021.03.04|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Set up Mind map<br>✅ Set up Flowchart<br>😱 Set up Figma design|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
 |4|2021.03.05|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Update Mind map<br>✅ Update Flowchart<br>✅ Set up Figma design|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)<br>[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)<br>[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
-|4|2021.03.06|Web|Design|😱 Figma design details|-|
+|5|2021.03.06|Web|Design|😱 Figma design details|-|
 ## 🦇 Todo
 ### API
 |No.||Category|Todo|Start|End|Output|
