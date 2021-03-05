@@ -46,6 +46,7 @@
 📕 Official document  
 📃 Semi-official document  
 📝 Academic paper  
+📚 Book  
 🖋 Blog post  
 ❓ Stackoverflow  
 🎥 Video  
@@ -64,4 +65,4 @@
 |Versioning|[📕 유의적 버전 2.0.0-ko2](https://semver.org/lang/ko/)<br>[🖋 Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)|
 |Design|[🖋 와디즈의 디자인 시스템 구축](https://medium.com/wadiz/%EC%99%80%EB%94%94%EC%A6%88%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-c7f32a948814)|
 |Terms|[📃 Upsert](https://en.wiktionary.org/wiki/upsert)|
-|General|[🎥 Software Engineering "Best Practices"](https://www.youtube.com/watch?v=gc8mDZwUlfo&t=5s)<br>[🎥 The mind behind Linux \| Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE&t=157s)|
+|General|[🎥 Software Engineering "Best Practices"](https://www.youtube.com/watch?v=gc8mDZwUlfo&t=5s)<br>[🎥 The mind behind Linux \| Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE&t=157s)<br>[함께 자라기]()|
