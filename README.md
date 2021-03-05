@@ -1,5 +1,5 @@
 ## 🐛 Daily Report
-|No.|Date|Project|Category|Todo|Output|
+|No.|Date|Project|Category|To-Do|Output|
 |:-:|:-:|:-:|:-:|:-|:-:|
 |1|2021.03.02|API<br>API|Env<br>Feature|✅ Set up the development environment<br>✅ Local authentication|-<br>-|
 |2|2021.03.03|Web<br>Docs|Env<br>Docs|✅ Set up the development environment<br>✅ Set up Docs|-<br>-|
@@ -8,7 +8,7 @@
 |5|2021.03.06|Web|Design|😱 Figma design details|-|
 ## 🦇 Tasks for Each Project
 ### API
-|No.||Category|Todo|Start|End|Output|
+|No.||Category|To-Do|Start|End|Output|
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|
 |1|✅|Env|Set up the development environment|2021.03.02|2021.03.02|-|
 |2|✅|Feature|Local authentication|2021.03.02|2021.03.03|-|
@@ -16,7 +16,7 @@
 |4|✅|Docs|Update Mind map|2021.03.05|2021.03.05|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)|
 
 ### Web
-|No.||Category|Todo|Start|End|Output|
+|No.||Category|To-Do|Start|End|Output|
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|
 |1|✅|Env|Set up the development environment|2021.03.02|2021.03.02|-|
 |2|✅|Docs|Set up Flowchart|2021.03.04|2021.03.04|[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
@@ -25,11 +25,11 @@
 |5|😱|Design|Figma design details|2021.03.06|2021.03.06|-|
 
 ### Desktop
-|No.||Category|Todo|Start|End|Output|
+|No.||Category|To-Do|Start|End|Output|
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|
 |1|😱|Env|Set up the development environment|???|???|-|
 ### Mobile
-|No.||Category|Todo|Start|End|Output|
+|No.||Category|To-Do|Start|End|Output|
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|
 |1|😱|Env|Set up the development environment|???|???|-|
 
