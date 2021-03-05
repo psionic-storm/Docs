@@ -21,7 +21,7 @@
 |1|✅|Env|Set up the development environment|2021.03.02|2021.03.02|-|
 |2|✅|Docs|Set up Flowchart|2021.03.04|2021.03.04|[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
 |3|✅|Design|Set up Figma design|2021.03.04|2021.03.05|[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
-|4|✅|Docs|Update Flowchart|2021.03.04|2021.03.04|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|
+|4|✅|Docs|Update Flowchart|2021.03.05|2021.03.05|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|
 |5|😱|Design|Figma design details|2021.03.06|2021.03.06|-|
 
 ### Desktop
@@ -34,13 +34,13 @@
 |1|😱|Env|Set up the development environment|???|???|-|
 
 ## 🐫 Output
-|No.|Project|Category|Output|
-|:-:|:-:|:-:|:-:|
-|1|API|Docs|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)|
-|2|Web|Docs|[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
-|3|Web|Design|[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
-|4|API|Docs|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)|
-|5|Web|Docs|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|
+|No.|Project|Category|Output|Date|
+|:-:|:-:|:-:|:-:|:-:|
+|1|API|Docs|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)|2021.03.04|
+|2|Web|Docs|[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|2021.03.04|
+|3|Web|Design|[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|2021.03.05|
+|4|API|Docs|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)|2021.03.05|
+|5|Web|Docs|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|2021.03.05|
 
 ## 🐊 Reference
 📕 Official document  
