@@ -56,6 +56,7 @@
 |Typescript|[🖋 Path aliases with TypeScript in Node.js](https://dev.to/larswaechter/path-aliases-with-typescript-in-nodejs-4353)|
 |Webpack|[🖋 프론트엔드 개발환경의 이해: 웹팩(기본)](https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)<br>[🖋 프론트엔드 개발환경의 이해: 웹팩(심화)](https://jeonghwan-kim.github.io/series/2020/01/02/frontend-dev-env-webpack-intermediate.html)<br>[🖋 How to change relative paths to absolute paths for imports](https://medium.com/@sherryhsu/how-to-change-relative-paths-to-absolute-paths-for-imports-32ba6cce18a5)
 |Express.js|[📕 express.json([options])](https://expressjs.com/en/api.html#express.json)<br>[📕 express.urlencoded([options])](https://expressjs.com/en/api.html#express.urlencoded)|
+|npm|[📕 package-lock.json](https://docs.npmjs.com/cli/v7/configuring-npm/package-lock-json)<br>[🖋 package-lock.json은 왜 필요할까?](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)|
 |Auth|[🖋 Refresh token은 필요한가?](https://zzossig.io/posts/etc/what_is_the_point_of_refresh_token/)|
 |HTTP|[📃 201 Created](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/201)|
 |REST|📝 [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)<br>[🎥 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)|
