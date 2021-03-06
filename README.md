@@ -6,7 +6,9 @@
 |3|2021.03.04|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Set up Mind map<br>✅ Set up Flowchart<br>😱 Set up Figma design|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
 |4|2021.03.05|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Update Mind map<br>✅ Update Flowchart<br>✅ Set up Figma design|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)<br>[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)<br>[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
 |5|2021.03.06|Web<br>Web|Design<br>Design|😱 Figma design details<br>✅ Define color variables|-<br>[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|
-|6|2021.03.07|Web|Design|😱 Figma design details|-|
+|6|2021.03.07|Web|Design|✅ Figma design details|[Figma Web v0.2.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=17%3A2)|
+|7|2021.03.08|API|Database|😱 ERDiagram|-|
+
 
 ## 🦇 Tasks for Each Project
 ### API
@@ -16,6 +18,7 @@
 |2|✅|Feature|Local authentication|2021.03.02|2021.03.03|-|
 |3|✅|Docs|Set up Mind map|2021.03.04|2021.03.04|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)|
 |4|✅|Docs|Update Mind map|2021.03.05|2021.03.05|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)|
+|5|😱|Database|ERDiagram|2021.03.07|2021.03.08|-|
 
 ### Web
 |No.||Category|To-Do|Start|End|Output|
@@ -24,7 +27,7 @@
 |2|✅|Docs|Set up Flowchart|2021.03.04|2021.03.04|[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
 |3|✅|Design|Set up Figma design|2021.03.04|2021.03.05|[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
 |4|✅|Docs|Update Flowchart|2021.03.05|2021.03.05|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|
-|5|😱|Design|Figma design details|2021.03.06|2021.03.07|-|
+|5|✅|Design|Figma design details|2021.03.06|2021.03.07|[Figma Web v0.2.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=17%3A2)|
 |6|✅|Design|Define color variables|2021.03.06|2021.03.06|[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|
 
 ### Desktop
@@ -45,6 +48,7 @@
 |4|API|Docs|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)|2021.03.05|
 |5|Web|Docs|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|2021.03.05|
 |6|Web|Design|[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|2021.03.06|
+|7|Web|Design|[Figma Web v0.2.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=17%3A2)|2021.03.07|
 
 ## 🐊 References
 📕 Official document  
