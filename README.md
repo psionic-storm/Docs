@@ -5,7 +5,9 @@
 |2|2021.03.03|Web<br>Docs|Env<br>Docs|✅ Set up development environment<br>✅ Set up Docs|-<br>-|
 |3|2021.03.04|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Set up Mind map<br>✅ Set up Flowchart<br>😱 Set up Figma design|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)<br>[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)<br>-|
 |4|2021.03.05|API<br>Web<br>Web|Docs<br>Docs<br>Design|✅ Update Mind map<br>✅ Update Flowchart<br>✅ Set up Figma design|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)<br>[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)<br>[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
-|5|2021.03.06|Web|Design|😱 Figma design details|-|
+|5|2021.03.06|Web<br>Web|Design<br>Design|😱 Figma design details<br>✅ Define color variables|-<br>[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|
+|6|2021.03.07|Web|Design|😱 Figma design details|-|
+
 ## 🦇 Tasks for Each Project
 ### API
 |No.||Category|To-Do|Start|End|Output|
@@ -22,7 +24,8 @@
 |2|✅|Docs|Set up Flowchart|2021.03.04|2021.03.04|[Flowchart v0.1.0](https://miro.com/app/board/o9J_lRFb2fY=/)|
 |3|✅|Design|Set up Figma design|2021.03.04|2021.03.05|[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|
 |4|✅|Docs|Update Flowchart|2021.03.05|2021.03.05|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|
-|5|😱|Design|Figma design details|2021.03.06|2021.03.06|-|
+|5|😱|Design|Figma design details|2021.03.06|2021.03.07|-|
+|6|✅|Design|Define color variables|2021.03.06|2021.03.06|[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|
 
 ### Desktop
 |No.||Category|To-Do|Start|End|Output|
@@ -41,6 +44,7 @@
 |3|Web|Design|[Figma Web v0.1.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web-v0.1.0?node-id=0%3A1)|2021.03.05|
 |4|API|Docs|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)|2021.03.05|
 |5|Web|Docs|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|2021.03.05|
+|6|Web|Design|[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|2021.03.06|
 
 ## 🐊 References
 📕 Official document  
