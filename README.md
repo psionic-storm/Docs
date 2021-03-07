@@ -10,7 +10,7 @@
 |7|2021.03.08|API|Database|😱 ERDiagram|-|
 
 
-## 🦇 Tasks for Each Project
+## 🦇 Tasks for Each Sub-Project
 ### API
 |No.||Category|To-Do|Start|End|Output|
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|
