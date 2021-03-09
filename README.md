@@ -8,6 +8,8 @@
 |5|2021.03.06|Web<br>Web|Design<br>Design|😱 Figma design details<br>✅ Define color variables|-<br>[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|
 |6|2021.03.07|Web|Design|✅ Figma design details|[Figma Web v0.2.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=17%3A2)|
 |7|2021.03.08|API|Database|😱 ERDiagram|-|
+|8|2021.03.09|API|Database|😱 ERDiagram|-|
+|9|2021.03.10|API|Database|😱 ERDiagram|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -61,7 +63,7 @@
 
 |Category|Reference|
 |-|-|
-|Javascript|[🖋 JavaScript CommonJS, ES6 모듈 시스템](https://bigstar-vlog.tistory.com/29)<br> [📃 DOMParser - MDN](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser)|
+|Javascript|[🖋 JavaScript CommonJS, ES6 모듈 시스템](https://bigstar-vlog.tistory.com/29)<br> [📃 DOMParser - MDN](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser)<br>[🖋 JavaScript: What is the meaning of this?](https://web.dev/javascript-this/?fbclid=IwAR3oADWK9exrAoWkspBJLgXZcwPDqyw1CEXnF0Gel77-zFjs8kvA9F0w-T0)|
 |Typescript|[🖋 Path aliases with TypeScript in Node.js](https://dev.to/larswaechter/path-aliases-with-typescript-in-nodejs-4353)|
 |Webpack|[🖋 프론트엔드 개발환경의 이해: 웹팩(기본)](https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)<br>[🖋 프론트엔드 개발환경의 이해: 웹팩(심화)](https://jeonghwan-kim.github.io/series/2020/01/02/frontend-dev-env-webpack-intermediate.html)<br>[🖋 How to change relative paths to absolute paths for imports](https://medium.com/@sherryhsu/how-to-change-relative-paths-to-absolute-paths-for-imports-32ba6cce18a5)
 |Express.js|[📕 express.json([options])](https://expressjs.com/en/api.html#express.json)<br>[📕 express.urlencoded([options])](https://expressjs.com/en/api.html#express.urlencoded)|
@@ -71,6 +73,7 @@
 |REST|📝 [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)<br>[🎥 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)|
 |Regex|[❓ Regex to test if string begins with http:// or https://](https://stackoverflow.com/questions/4643142/regex-to-test-if-string-begins-with-http-or-https)|
 |Versioning|[📕 유의적 버전 2.0.0-ko2](https://semver.org/lang/ko/)<br>[🖋 Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)|
+|Performance|[🖋 웹 성능 최적화 SSR + Cache 적용기](https://medium.com/wantedjobs/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-ssr-cache-%EC%A0%81%EC%9A%A9%EA%B8%B0-bf022e3a1a72)|
 |Design|[🖋 와디즈의 디자인 시스템 구축](https://medium.com/wadiz/%EC%99%80%EB%94%94%EC%A6%88%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-c7f32a948814)|
 |Figma|🎥 [The Figma 2021 Crash Course by Example](https://www.youtube.com/watch?v=Gu1so3pz4bA)<br>🎥 [Figma in 40 Minutes](https://www.youtube.com/watch?v=4W4LvJnNegA)<br>🎥 [10 tips to work 10x faster in Figma](https://www.youtube.com/watch?v=i-9mgOL3mHw)<br>🎥 [How I organize my Figma files to overcome the creative block (with Template)](https://www.youtube.com/watch?v=C4LIC2n6pkw)|
 |Terms|[📃 Upsert](https://en.wiktionary.org/wiki/upsert)<br>[📃 Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)|
