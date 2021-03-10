@@ -9,7 +9,7 @@
 |6|2021.03.07|Web|Design|✅ Figma design details|[Figma Web v0.2.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=17%3A2)|
 |7|2021.03.08|API|Database|😱 ERDiagram|-|
 |8|2021.03.09|API|Database|😱 ERDiagram|-|
-|9|2021.03.10|API|Database|✅ ERDiagram|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Draft/)|
+|9|2021.03.10|API|Database|✅ ERDiagram|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|
 |10|2021.03.11|API|Feature|😱 Set up base APIs|-|
 
 
@@ -21,7 +21,7 @@
 |2|✅|Feature|Local authentication|2021.03.02|2021.03.03|-|
 |3|✅|Docs|Set up Mind map|2021.03.04|2021.03.04|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)|
 |4|✅|Docs|Update Mind map|2021.03.05|2021.03.05|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)|
-|5|✅|Database|ERDiagram|2021.03.07|2021.03.10|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Draft/)|
+|5|✅|Database|ERDiagram|2021.03.07|2021.03.10|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|
 |6|😱|Feature|ERDiagram|2021.03.11|2021.03.12|-|
 
 ### Web
@@ -54,7 +54,7 @@
 |5|Web|Docs|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|2021.03.05|
 |6|Web|Design|[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|2021.03.06|
 |7|Web|Design|[Figma Web v0.2.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=17%3A2)|2021.03.07|
-|8|API|Database|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Draft/)|2021.03.10|
+|8|API|Database|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|2021.03.10|
 
 ## 🐊 References
 📕 Official document  
