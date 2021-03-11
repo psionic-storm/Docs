@@ -10,7 +10,8 @@
 |7|2021.03.08|API|Database|😱 ERDiagram|-|
 |8|2021.03.09|API|Database|😱 ERDiagram|-|
 |9|2021.03.10|API|Database|✅ ERDiagram|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|
-|10|2021.03.11|API|Feature|😱 Set up base APIs|-|
+|10|2021.03.11|API|Database|✅ SQL Statements|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
+|11|2021.03.12|API|Feature|😱 Set up base APIs|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -22,7 +23,8 @@
 |3|✅|Docs|Set up Mind map|2021.03.04|2021.03.04|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)|
 |4|✅|Docs|Update Mind map|2021.03.05|2021.03.05|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)|
 |5|✅|Database|ERDiagram|2021.03.07|2021.03.10|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|
-|6|😱|Feature|ERDiagram|2021.03.11|2021.03.12|-|
+|6|✅|Database|SQL Statements|2021.03.11|2021.03.11|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
+|7|😱|Feature|Set up base APIs|2021.03.11|2021.03.12|-|
 
 ### Web
 |No.||Category|To-Do|Start|End|Output|
@@ -55,6 +57,7 @@
 |6|Web|Design|[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|2021.03.06|
 |7|Web|Design|[Figma Web v0.2.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=17%3A2)|2021.03.07|
 |8|API|Database|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|2021.03.10|
+|9|API|Database|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|2021.03.11|
 
 ## 🐊 References
 📕 Official document  
@@ -75,6 +78,7 @@
 |Auth|[🖋 Refresh token은 필요한가?](https://zzossig.io/posts/etc/what_is_the_point_of_refresh_token/)|
 |HTTP|[📃 201 Created - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/201)|
 |REST|📝 [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)<br>[🎥 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)|
+|Database|[🖋 다대다(M:N) 관계 연결테이블로 구현하기](https://siyoon210.tistory.com/26)|
 |Regex|[❓ Regex to test if string begins with http:// or https://](https://stackoverflow.com/questions/4643142/regex-to-test-if-string-begins-with-http-or-https)|
 |Versioning|[📕 유의적 버전 2.0.0-ko2](https://semver.org/lang/ko/)<br>[🖋 Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)|
 |SSR|[🖋 웹 성능 최적화 SSR + Cache 적용기](https://medium.com/wantedjobs/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-ssr-cache-%EC%A0%81%EC%9A%A9%EA%B8%B0-bf022e3a1a72)<br>[🖋 React SSR 그 고통의 기록](https://www.seokjun.kim/react-ssr-the-record-of-pain/)|
