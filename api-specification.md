@@ -19,9 +19,9 @@
 |📂 Space|[Modify a Review Comment](#space---modify-a-review-comment)|PATCH|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment/[commentId]`|
 |📂 Space|[Delete a Review Comment](#space---delete-a-review-comment)|DELETE|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment/[commentId]`|
 |📂 Space|[Create a Quote](#space---create-a-quote)|POST|`/api/space/[spaceId]/book/[bookId]/quote`|
-|📂 Space|[Modify a Quote](#space---modify-a-quote)|PATCH|`/api/space/[spaceId]/book/[bookId]/quote`|
-|📂 Space|[Delete a Quote](#space---delete-a-quote)|DELETE|`/api/space/[spaceId]/book/[bookId]/quote`|
-|📂 Space|[Get all Quote Comments in a Quote](#space---get-all-quote-comments-in-a-quote)|GET|`/api`|
+|📂 Space|[Modify a Quote](#space---modify-a-quote)|PATCH|`/api/space/[spaceId]/book/[bookId]/quote/[quoteId]`|
+|📂 Space|[Delete a Quote](#space---delete-a-quote)|DELETE|`/api/space/[spaceId]/book/[bookId]/quote/[quoteId]`|
+|📂 Space|[Get all Quote Comments in a Quote](#space---get-all-quote-comments-in-a-quote)|GET|`/api/space/[spaceId]/book/[bookId]/quote/[quoteId]/comment`|
 |📂 Space|[Create a Quote Comment](#space---create-a-quote-comment)|POST|`/api/space/[spaceId]/book/[bookId]/quote/[quoteId]/comment`|
 |📂 Space|[Modify a Quote Comment](#space---modify-a-quote-comment)|PATCH|`/api/space/[spaceId]/book/[bookId]/quote/[quoteId]/comment/[commentId]`|
 |📂 Space|[Delete a Quote Comment](#space---delete-a-quote-comment)|DELETE|`/api/space/[spaceId]/book/[bookId]/quote/[quoteId]/comment/[commentId]`|
@@ -39,9 +39,9 @@
 |💒 Salon|[Modify a Review Comment](#salon---modify-a-review-comment)|PATCH|`/api/salon/[salonId]/book/[bookId]/review/[reviewId]/comment/[commentId]`|
 |💒 Salon|[Delete a Review Comment](#salon---delete-a-review-comment)|DELETE|`/api/salon/[salonId]/book/[bookId]/review/[reviewId]/comment/[commentId]`|
 |💒 Salon|[Create a Quote](#salon---create-a-quote)|POST|`/api/salon/[salonId]/book/[bookId]/quote`|
-|💒 Salon|[Modify a Quote](#salon---modify-a-quote)|PATCH|`/api/salon/[salonId]/book/[bookId]/quote`|
-|💒 Salon|[Delete a Quote](#salon---delete-a-quote)|DELETE|`/api/salon/[salonId]/book/[bookId]/quote`|
-|💒 Salon|[Get all Quote Comments in a Quote](#salon---get-all-quote-comments-in-a-quote)|GET|`/api`|
+|💒 Salon|[Modify a Quote](#salon---modify-a-quote)|PATCH|`/api/salon/[salonId]/book/[bookId]/quote/[quoteId]`|
+|💒 Salon|[Delete a Quote](#salon---delete-a-quote)|DELETE|`/api/salon/[salonId]/book/[bookId]/quote/[quoteId]`|
+|💒 Salon|[Get all Quote Comments in a Quote](#salon---get-all-quote-comments-in-a-quote)|GET|`/api/salon/[salonId]/book/[bookId]/quote/[quoteId]/comment`|
 |💒 Salon|[Create a Quote Comment](#salon---create-a-quote-comment)|POST|`/api/salon/[salonId]/book/[bookId]/quote/[quoteId]/comment`|
 |💒 Salon|[Modify a Quote Comment](#salon---modify-a-quote-comment)|PATCH|`/api/salon/[salonId]/book/[bookId]/quote/[quoteId]/comment/[commentId]`|
 |💒 Salon|[Delete a Quote Comment](#salon---delete-a-quote-comment)|DELETE|`/api/salon/[salonId]/book/[bookId]/quote/[quoteId]/comment/[commentId]`|
