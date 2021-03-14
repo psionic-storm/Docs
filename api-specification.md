@@ -14,9 +14,7 @@ POST /api/signUp
 |nickname|string|body|nickname|
 
 ### Default Response
-```
-Status: 201 Created
-```
+`Status: 201 Created`
 
 ```json
 34
