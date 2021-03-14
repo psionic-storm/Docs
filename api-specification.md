@@ -1,9 +1,9 @@
 # API Specification
 |Category|Desc|Method|Endpoint|
 |-|-|-|-|
-|Auth|[Sign Up](#sign-up)|POST|/api/user/signUp|
-|Auth|[Sign In](#sign-in)|POST|/api/user/signIn|
-|Auth|[Get My UserInfo](#get-my-userinfo)|GET|/api/user|
+|Auth|[Sign Up](#sign-up)|POST|`/api/user/signUp`|
+|Auth|[Sign In](#sign-in)|POST|`/api/user/signIn`|
+|Auth|[Get My UserInfo](#get-my-userinfo)|GET|`/api/user`|
 
 # Sign Up
 
@@ -119,7 +119,7 @@ Status: 200 OK
     ]
 ```
 
-### Get a Salon
+# Get a Salon
 
 ### Method & Endpoint
 ```
