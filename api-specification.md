@@ -26,7 +26,7 @@ Status: 201 Created
 ```
 Status: 409 Conflict
 ```
-```json
+```javascript
 {
   "message": "이미 있는 아이디"
 }
