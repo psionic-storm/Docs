@@ -19,8 +19,17 @@ POST /api/signUp
 Status: 201 Created
 ```
 
-```
+```json
 34
+```
+### Conflict
+```
+Status: 409 Conflict
+```
+```json
+{
+  "message": "이미 있는 아이디"
+}
 ```
 
 ## Sign In
