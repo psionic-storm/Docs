@@ -11,22 +11,26 @@
 |Space|[Get a Book in the Space](#space---get-a-book-in-the-space)|GET|`/api/space/[spaceId]/book/[bookId]`|
 |Space|[Add a Book to My space](#space---add-a-book-to-my-space)|POST|`/api/space/[spaceId]/book`|
 |Space|[Delete a Book from My space](#space---delete-a-book-from-my-space)|DELETE|`/api/space/[spaceId]/book/[bookId]`|
+|Space|[Create a Review](#space---create-a-review)|POST|`/api/space/[spaceId]/book/[bookId]/review`|
+|Space|[Modify a Review](#space---modify-a-review)|PATCH|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]`|
+|Space|[Delete a Review](#space---delete-a-review)|DELETE|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]`|
+|Space|[Get all Review Comments in a Review](#space---get-all-review-comments-in-a-review)|GET|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment/`|
+|Space|[Create a Review Comment](#space---create-a-review-comment)|POST|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment`|
+|Space|[Modify a Review Comment](#space---modify-a-review-comment)|PATCH|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment/[commentId]`|
+|Space|[Delete a Review Comment](#space---delete-a-review-comment)|DELETE|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment/[commentId]`|
 |Salon|[Get a Salon](#salon---get-a-salon)|GET|`/api/salon/[salonId]`|
 |Salon|[Modify a Salon](#salon---modify-a-salon)|PATCH|`/api/salon/[salonId]`|
 |Salon|[Delete a Salon](#salon---delete-a-salon)|DELETE|`/api/salon/[salonId]`|
 |Salon|[Get a Book in the Salon](#salon---get-a-book-in-the-salon)|GET|`/api/salon/[salonId]/book/[bookId]`|
 |Salon|[Add a Book to the Salon](#salon---add-a-book-to-the-salon)|POST|`/api/salon/[salonId]/book`|
 |Salon|[Delete a Book from Salon](#salon---delete-a-book-from-the-salon)|DELETE|`/api/salon/[salonId]/book/[bookId]`|
-|Review|[Get all Reviews in a Book]()|GET|`/api`|
-|Review|[Get a Review]()|GET|`/api`|
-|Review|[Create a Review]()|GET|`/api`|
-|Review|[Modify a Review]()|GET|`/api`|
-|Review|[Delete a Review]()|GET|`/api`|
-|Review Comment|[Get all Review Comments in a Review]()|GET|`/api`|
-|Review Comment|[Create a Review Comment]()|GET|`/api`|
-|Review Comment|[Modify a Review Comment]()|GET|`/api`|
-|Review Comment|[Delete a Review Comment]()|GET|`/api`|
-|Quote|[Get all Quotes in a Book]()|GET|`/api`|
+|Salon|[Create a Review](#salon---create-a-review)|POST|`/api/salon/[salonId]/book/[bookId]/review`|
+|Salon|[Modify a Review](#salon---modify-a-review)|PATCH|`/api/salon/[salonId]/book/[bookId]/review/[reviewId]`|
+|Salon|[Delete a Review](#salon---delete-a-review)|DELETE|`/api/salon/[salonId]/book/[bookId]/review/[reviewId]`|
+|Salon|[Get all Review Comments in a Review](#salon---get-all-review-comments-in-a-review)|GET|`/api/salon/[salonId]/book/[bookId]/review/[reviewId]/comment/`|
+|Salon|[Create a Review Comment](#salon---create-a-review-comment)|POST|`/api/salon/[salonId]/book/[bookId]/review/[reviewId]/comment`|
+|Salon|[Modify a Review Comment](#salon---modify-a-review-comment)|PATCH|`/api/salon/[salonId]/book/[bookId]/review/[reviewId]/comment/[commentId]`|
+|Salon|[Delete a Review Comment](#salon---delete-a-review-comment)|DELETE|`/api/salon/[salonId]/book/[bookId]/review/[reviewId]/comment/[commentId]`|
 |Quote|[Get a Quote]()|GET|`/api`|
 |Quote|[Create a Quote]()|GET|`/api`|
 |Quote|[Modify a Quote]()|GET|`/api`|
@@ -148,7 +152,7 @@ Status: 200 OK
             "created_at": "2020-01-02",
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
-            "book_author": "Also Sprach Zarathustra",
+            "book_author": "Friedrich Nietzsche",
             "salon": null,
             "space": "Granzort's space",
         }
@@ -182,7 +186,7 @@ Status: 200 OK
             "created_at": "2020-01-02",
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
-            "book_author": "Also Sprach Zarathustra",
+            "book_author": "Friedrich Nietzsche",
             "salon": null,
             "space": "Granzort's space",
         }
@@ -270,7 +274,7 @@ Status: 200 OK
             "created_at": "2020-01-02",
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
-            "book_author": "Also Sprach Zarathustra",
+            "book_author": "Friedrich Nietzsche",
             "salon": null,
             "space": "Granzort's space",
         }
@@ -283,7 +287,7 @@ Status: 200 OK
             "created_at": "2020-01-02",
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
-            "book_author": "Also Sprach Zarathustra",
+            "book_author": "Friedrich Nietzsche",
             "salon": null,
             "space": "Granzort's space",
         }
@@ -332,6 +336,178 @@ Status: 200 OK
 ```json
 { "message": "deleted successfully" }
 ```
+
+# Space - Create a Review
+### Method & Endpoint
+```
+POST /api/space/[spaceId]/book/[bookId]/review
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|spaceId|string|path|space id|
+|bookId|string|path|book id|
+|title|string|body|review title|
+|content|string|body|review content|
+
+### Default Response
+```
+Status: 201 Created
+```
+```json
+36 (Review Id)
+```
+
+# Space - Modify a Review
+### Method & Endpoint
+```
+PATCH /api/space/[spaceId]/book/[bookId]/review/[reviewId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|spaceId|string|path|space id|
+|bookId|string|path|book id|
+|reviewId|string|path|review id|
+|title|string|body|new review title|
+|content|string|body|new review content|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "message": "modified successfully"
+}
+```
+
+# Space - Delete a Review
+### Method & Endpoint
+```
+DELETE /api/space/[spaceId]/book/[bookId]/review/[reviewId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|spaceId|string|path|space id|
+|bookId|string|path|book id|
+|reviewId|string|path|review id|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "message": "deleted successfully"
+}
+```
+
+# Space - Get all Review Comments in a Review
+### Method & Endpoint
+```
+GET /api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|spaceId|string|path|space id|
+|bookId|string|path|book id|
+|reviewId|string|path|review id|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "review_comments": [
+        {
+            "comment": "this is..",
+            "commenter": "Granzort",
+            "created_at": "2020-01-02",
+            "updated_at": "2020-01-02",
+        }
+    ]
+}
+```
+
+
+# Space - Create a Review Comment
+### Method & Endpoint
+```
+POST /api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|spaceId|string|path|space id|
+|bookId|string|path|book id|
+|comment|string|body|review comment|
+
+### Default Response
+```
+Status: 201 Created
+```
+```json
+36 (Review Comment Id)
+```
+
+# Space - Modify a Review Comment
+### Method & Endpoint
+```
+PATCH /api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment/[commentId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|spaceId|string|path|space id|
+|bookId|string|path|book id|
+|reviewId|string|path|review id|
+|commentId|string|path|comment id|
+|comment|string|body|review comment|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "message": "modified successfully"
+}
+```
+
+# Space - Delete a Review Comment
+### Method & Endpoint
+```
+DELETE /api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment/[commentId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|spaceId|string|path|space id|
+|bookId|string|path|book id|
+|reviewId|string|path|review id|
+|commentId|string|path|comment id|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "message": "deleted successfully"
+}
+```
+
 # Salon - Get a Salon
 
 ### Method & Endpoint
@@ -457,7 +633,7 @@ Status: 200 OK
             "created_at": "2020-01-02",
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
-            "book_author": "Also Sprach Zarathustra",
+            "book_author": "Friedrich Nietzsche",
             "salon": null,
             "space": "Granzort's space",
         }
@@ -470,7 +646,7 @@ Status: 200 OK
             "created_at": "2020-01-02",
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
-            "book_author": "Also Sprach Zarathustra",
+            "book_author": "Friedrich Nietzsche",
             "salon": null,
             "space": "Granzort's space",
         }
@@ -516,4 +692,175 @@ Status: 200 OK
 ```
 ```json
 { "message": "deleted successfully" }
+```
+
+
+# Salon - Create a Review
+### Method & Endpoint
+```
+POST /api/salon/[salonId]/book/[bookId]/review
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|salonId|string|path|salon id|
+|bookId|string|path|book id|
+|title|string|body|review title|
+|content|string|body|review content|
+
+### Default Response
+```
+Status: 201 Created
+```
+```json
+36 (Review Id)
+```
+
+# Salon - Modify a Review
+### Method & Endpoint
+```
+PATCH /api/salon/[salonId]/book/[bookId]/review/[reviewId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|salonId|string|path|salon id|
+|bookId|string|path|book id|
+|reviewId|string|path|review id|
+|title|string|body|new review title|
+|content|string|body|new review content|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "message": "modified successfully"
+}
+```
+
+# Salon - Delete a Review
+### Method & Endpoint
+```
+DELETE /api/salon/[salonId]/book/[bookId]/review/[reviewId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|salonId|string|path|salon id|
+|bookId|string|path|book id|
+|reviewId|string|path|review id|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "message": "deleted successfully"
+}
+```
+
+# Salon - Get all Review Comments in a Review
+### Method & Endpoint
+```
+GET /api/salon/[salonId]/book/[bookId]/review/[reviewId]/comment
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|salonId|string|path|salon id|
+|bookId|string|path|book id|
+|reviewId|string|path|review id|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "review_comments": [
+        {
+            "comment": "this is..",
+            "commenter": "Granzort",
+            "created_at": "2020-01-02",
+            "updated_at": "2020-01-02",
+        }
+    ]
+}
+```
+
+# Salon - Create a Review Comment
+### Method & Endpoint
+```
+POST /api/salon/[salonId]/book/[bookId]/review/[reviewId]/comment
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|salonId|string|path|salon id|
+|bookId|string|path|book id|
+|comment|string|body|review comment|
+
+### Default Response
+```
+Status: 201 Created
+```
+```json
+36 (Review Comment Id)
+```
+
+# Salon - Modify a Review Comment
+### Method & Endpoint
+```
+PATCH /api/salon/[salonId]/book/[bookId]/review/[reviewId]/comment/[commentId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|salonId|string|path|salon id|
+|bookId|string|path|book id|
+|reviewId|string|path|review id|
+|commentId|string|path|comment id|
+|comment|string|body|review comment|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "message": "modified successfully"
+}
+```
+
+# Salon - Delete a Review Comment
+### Method & Endpoint
+```
+DELETE /api/salon/[salonId]/book/[bookId]/review/[reviewId]/comment/[commentId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|salonId|string|path|salon id|
+|bookId|string|path|book id|
+|reviewId|string|path|review id|
+|commentId|string|path|comment id|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "message": "deleted successfully"
+}
 ```
