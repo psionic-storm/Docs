@@ -1,22 +1,22 @@
 # API Specification
 |Category|Desc|Method|Endpoint|
 |-|-|-|-|
-|User|[Sign Up](#sign-up)|POST|`/api/user/signUp`|
-|User|[Sign In](#sign-in)|POST|`/api/user/signIn`|
-|User|[Get My UserInfo](#get-my-userinfo)|GET|`/api/user`|
-|User|[Get My Books, Reviews and Quotes]()||``|
-|Square|[Get All Reviews]()||``|
-|Square|[Get All Quotes]()||``|
-|Space|[Get a Space](#get-a-space)|GET|`/api/space/[spaceId]`|
-|Space|[Modify a Space](#modify-a-space)|PATCH|`/api/space/[spaceId]`|
-|Salon|[Get a Salon](#get-a-salon)|GET|`/api/salon/[salonId]`|
-|Salon|[Modify a Salon](#modify-a-salon)|PATCH|`/api/salon/[salonId]`|
-|Salon|[Delete a Salon](#delete-a-salon)|DELETE|`/api/salon/[salonId]`|
-|Book|[Get a Book]()|GET|`/api`|
-|Book|[Add a Book to My space]()|GET|`/api`|
-|Book|[Add a Book to Salon]()|GET|`/api`|
-|Book|[Delete a Book from My space]()|GET|`/api`|
-|Book|[Delete a Book from Salon]()|GET|`/api`|
+|User|[Sign Up](#user---sign-up)|POST|`/api/user/signUp`|
+|User|[Sign In](#user---sign-in)|POST|`/api/user/signIn`|
+|User|[Get My UserInfo](#user---get-my-userinfo)|GET|`/api/user`|
+|Square|[Get All Reviews](#square---get-all-reviews)|GET|`/api/square/reviews`|
+|Square|[Get All Quotes](#square---get-all-quotes)|GET|`/api/square/quotes`|
+|Space|[Get a Space](#space---get-a-space)|GET|`/api/space/[spaceId]`|
+|Space|[Modify a Space](#space---modify-a-space)|PATCH|`/api/space/[spaceId]`|
+|Space|[Get a Book in the Space](#space---get-a-book-in-the-space)|GET|`/api/space/[spaceId]/book/[bookId]`|
+|Space|[Add a Book to My space](#space---add-a-book-to-my-space)|POST|`/api/space/[spaceId]/book`|
+|Space|[Delete a Book from My space](#space---delete-a-book-from-my-space)|DELETE|`/api/space/[spaceId]/book/[bookId]`|
+|Salon|[Get a Salon](#salon---get-a-salon)|GET|`/api/salon/[salonId]`|
+|Salon|[Modify a Salon](#salon---modify-a-salon)|PATCH|`/api/salon/[salonId]`|
+|Salon|[Delete a Salon](#salon---delete-a-salon)|DELETE|`/api/salon/[salonId]`|
+|Salon|[Get a Book in the Salon](#salon---get-a-book-in-the-salon)|GET|`/api/salon/[salonId]/book/[bookId]`|
+|Salon|[Add a Book to the Salon](#salon---add-a-book-to-the-salon)|POST|`/api/salon/[salonId]/book`|
+|Salon|[Delete a Book from Salon](#salon---delete-a-book-from-the-salon)|DELETE|`/api/salon/[salonId]/book/[bookId]`|
 |Review|[Get all Reviews in a Book]()|GET|`/api`|
 |Review|[Get a Review]()|GET|`/api`|
 |Review|[Create a Review]()|GET|`/api`|
@@ -36,7 +36,7 @@
 |Quote Comment|[Modify a Quote Comment]()|GET|`/api`|
 |Quote Comment|[Delete a Quote Comment]()|GET|`/api`|
 
-# Sign Up
+# User - Sign Up
 
 ### Method & Endpoint
 ```
@@ -69,7 +69,7 @@ Status: 409 Conflict
 }
 ```
 
-# Sign In
+# User - Sign In
 ### Method & Endpoint
 ```
 GET /api/signIn
@@ -99,7 +99,7 @@ Status: 401 Unauthorized
 Unauthorized
 ```
 
-# Get My UserInfo
+# User - Get My UserInfo
 ### Method & Endpoint
 ```
 GET /api/user
@@ -122,8 +122,75 @@ Status: 200 OK
 }
 ```
 
+# Square - Get All Reviews
 
-# Get a Space
+### Method & Endpoint
+```
+GET /api/square/reviews
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|-|-|-|-|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "reviews": [
+        {
+            "title": "I am Zarathustra..",
+            "content": "this is..",
+            "reviewer": "Granzort",
+            "created_at": "2020-01-02",
+            "updated_at": "2020-01-02",
+            "book_title": "Also Sprach Zarathustra",
+            "book_author": "Also Sprach Zarathustra",
+            "salon": "null",
+            "space": "Granzort's space",
+        }
+    ]
+}
+```
+
+# Square - Get All Quotes
+
+### Method & Endpoint
+```
+GET /api/square/quotes
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|-|-|-|-|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "quotes": [
+        {
+            "title": "I am Zarathustra..",
+            "content": "this is..",
+            "quoter": "Granzort",
+            "created_at": "2020-01-02",
+            "updated_at": "2020-01-02",
+            "book_title": "Also Sprach Zarathustra",
+            "book_author": "Also Sprach Zarathustra",
+            "salon": "null",
+            "space": "Granzort's space",
+        }
+    ]
+}
+```
+
+# Space - Get a Space
 ### Method & Endpoint
 ```
 GET /api/space/[spaceId]
@@ -141,6 +208,7 @@ Status: 200 OK
 ```json
     "owner_id": "jungcome7",
     "owner_nickname": "Granzort",
+    "name": "Granzort's space",
     "books": [
         {
             "title": "Also Sprach Zarathustra",
@@ -150,7 +218,121 @@ Status: 200 OK
     ]
 ```
 
-# Get a Salon
+# Space - Modify a Space
+### Method & Endpoint
+```
+PATCH /api/space/[spaceId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|spaceId|string|path|space id|
+|name|string|body|new space name|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "message": "modified successfully"
+}
+```
+
+
+# Space - Get a Book in the Space
+### Method & Endpoint
+```
+GET /api/space/[spaceId]/book/[bookId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|spaceId|string|path|space id|
+|bookId|string|path|book id|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "title": "Also Sprach Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "description": "Long time ago...",
+    "reviews": [
+        {
+            "title": "I am Zarathustra..",
+            "content": "this is..",
+            "reviewer": "Granzort",
+            "created_at": "2020-01-02",
+            "updated_at": "2020-01-02",
+            "book_title": "Also Sprach Zarathustra",
+            "book_author": "Also Sprach Zarathustra",
+            "salon": "null",
+            "space": "Granzort's space",
+        }
+    ],
+    "quotes": [
+        {
+            "title": "I am Zarathustra..",
+            "content": "this is..",
+            "quoter": "Granzort",
+            "created_at": "2020-01-02",
+            "updated_at": "2020-01-02",
+            "book_title": "Also Sprach Zarathustra",
+            "book_author": "Also Sprach Zarathustra",
+            "salon": "null",
+            "space": "Granzort's space",
+        }
+    ]
+}
+```
+
+
+# Space - Add a Book to My Space
+### Method & Endpoint
+```
+POST /api/space/[spaceId]/book
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|spaceId|string|path|space id|
+|title|string|body|book title|
+|author|string|body|book author|
+|description|string|body|book description|
+
+### Default Response
+```
+Status: 201 Created
+```
+```json
+365 (Book Id)
+```
+# Space - Delete a Book from My Space
+### Method & Endpoint
+```
+DELETE /api/space/[spaceId]/book/[bookId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|spaceId|string|path|space id|
+|bookId|string|path|book id|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{ "message": "deleted successfully" }
+```
+# Salon - Get a Salon
 
 ### Method & Endpoint
 ```
@@ -184,28 +366,7 @@ Status: 200 OK
     ]
 ```
 
-### Modify a Space
-### Method & Endpoint
-```
-PATCH /api/space/[spaceId]
-```
-
-### Parameters
-|Name|Type|In|Description|
-|-|-|-|-|
-|spaceId|string|path|space id|
-|name|string|body|new space name|
-
-### Default Response
-```
-Status: 200 OK
-```
-```json
-{
-    "message": "modified successfully"
-}
-```
-# Create a Salon
+# Salon - Create a Salon
 ### Method & Endpoint
 ```
 POST /api/salon
@@ -224,7 +385,7 @@ Status: 201 Created
 34 (Salon Id)
 ```
 
-### Modify a Salon
+# Salon - Modify a Salon
 ### Method & Endpoint
 ```
 PATCH /api/salon/[salonId]
@@ -246,7 +407,7 @@ Status: 200 OK
 }
 ```
 
-### Delete a Salon
+### Salon - Delete a Salon
 ### Method & Endpoint
 ```
 GET /api/salon/[salonId]
@@ -265,4 +426,94 @@ Status: 200 OK
 {
     "message": "deleted successfully"
 }
+```
+
+# Salon - Get a Book in the Salon
+### Method & Endpoint
+```
+GET /api/salon/[salonId]/book/[bookId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|salonId|string|path| salon id|
+|bookId|string|path|book id|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{
+    "title": "Also Sprach Zarathustra",
+    "author": "Friedrich Nietzsche",
+    "description": "Long time ago...",
+    "reviews": [
+        {
+            "title": "I am Zarathustra..",
+            "content": "this is..",
+            "reviewer": "Granzort",
+            "created_at": "2020-01-02",
+            "updated_at": "2020-01-02",
+            "book_title": "Also Sprach Zarathustra",
+            "book_author": "Also Sprach Zarathustra",
+            "salon": "null",
+            "space": "Granzort's space",
+        }
+    ],
+    "quotes": [
+        {
+            "title": "I am Zarathustra..",
+            "content": "this is..",
+            "quoter": "Granzort",
+            "created_at": "2020-01-02",
+            "updated_at": "2020-01-02",
+            "book_title": "Also Sprach Zarathustra",
+            "book_author": "Also Sprach Zarathustra",
+            "salon": "null",
+            "space": "Granzort's space",
+        }
+    ]
+}
+```
+# Salon - Add a Book to the Salon
+### Method & Endpoint
+```
+POST /api/salon/[salonId]/book
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|salonId|string|path|salon id|
+|title|string|body|book title|
+|author|string|body|book author|
+|description|string|body|book description|
+
+### Default Response
+```
+Status: 201 Created
+```
+```json
+365 (Book Id)
+```
+# Salon - Delete a Book from the Salon
+### Method & Endpoint
+```
+DELETE /api/salon/[salonId]/book/[bookId]
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|salonId|string|path|salon id|
+|bookId|string|path|book id|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+{ "message": "deleted successfully" }
 ```
