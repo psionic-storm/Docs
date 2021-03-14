@@ -14,6 +14,7 @@
 |11|2021.03.12|API|Feature|😱 Set up base APIs|-|
 |12|2021.03.13|API|Feature|😱 Set up base APIs|-|
 |13|2021.03.14|API|Docs<br>Feature|✅ API Specification<br>😱 Set up base APIs|[API Specification](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)<br>-|
+|14|2021.03.15|API|Feature|😱 Set up base APIs|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -27,7 +28,7 @@
 |5|✅|Database|ERDiagram|2021.03.07|2021.03.10|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|
 |6|✅|Database|SQL Statements|2021.03.11|2021.03.11|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
 |7|✅|Docs|API Specification|2021.03.14|2021.03.14|[API Specification](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|
-|8|😱|Feature|Set up base APIs|2021.03.11|2021.03.14|-|
+|8|😱|Feature|Set up base APIs|2021.03.11|2021.03.15|-|
 
 ### Web
 |No.||Category|To-Do|Start|End|Output|
@@ -81,7 +82,7 @@
 |npm|[📕 package-lock.json](https://docs.npmjs.com/cli/v7/configuring-npm/package-lock-json)<br>[🖋 package-lock.json은 왜 필요할까?](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)|
 |Auth|[🖋 Refresh token은 필요한가?](https://zzossig.io/posts/etc/what_is_the_point_of_refresh_token/)<br>[🎥 JWT 토큰](https://www.youtube.com/watch?v=MUUqogMpGiA)<br>[🎥 [10분 테코톡] 🎡토니의 인증과 인가](https://youtu.be/y0xMXlOAfss?t=1)<br>[🎥 JWT, TOKEN 토큰 베이스 로그인](https://www.youtube.com/watch?v=zC5dLbZMAW0)<br>[🎥 Introduction to JWT (JSON Web Token), The Good Parts](https://www.youtube.com/watch?v=7abbNwuCXbg&t=1s)<br>[🎥 JWT (JSON Web Tokens), Limitations](https://www.youtube.com/watch?v=THFmV5LPE6Y)|
 |HTTP|[📃 201 Created - MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/201)|
-|REST|📝 [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)<br>[🎥 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)|
+|REST|📝 [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)<br>[🎥 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)<br>[📕 GitHub REST API](https://docs.github.com/en/rest)|
 |Database|[🖋 다대다(M:N) 관계 연결테이블로 구현하기](https://siyoon210.tistory.com/26)|
 |SQL|[🎥 SQL Joins Explained \|¦\| Joins in SQL \|¦\| SQL Tutorial](https://www.youtube.com/watch?v=9yeOJ0ZMUYw)<br>[🎥 SQL Joins Tutorial For Beginners \| Inner, Left, Right, Full Join \| SQL Joins With Examples \| Edureka](https://www.youtube.com/watch?v=bLL5NbBEg2I)<br>[📕 13.2.10.2 JOIN Clause](https://dev.mysql.com/doc/refman/8.0/en/join.html)<br>[🎥 MySQL Crash Course \| Learn SQL](https://youtu.be/9ylj9NR0Lcg?t=3)|
 |Test|[🎥 [A5] 프론트엔드에서 TDD가 가능하다는 것을 보여드립니다.](https://www.youtube.com/watch?v=L1dtkLeIz-M)|
