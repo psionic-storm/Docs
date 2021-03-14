@@ -1,9 +1,40 @@
 # API Specification
 |Category|Desc|Method|Endpoint|
 |-|-|-|-|
-|Auth|[Sign Up](#sign-up)|POST|`/api/user/signUp`|
-|Auth|[Sign In](#sign-in)|POST|`/api/user/signIn`|
-|Auth|[Get My UserInfo](#get-my-userinfo)|GET|`/api/user`|
+|User|[Sign Up](#sign-up)|POST|`/api/user/signUp`|
+|User|[Sign In](#sign-in)|POST|`/api/user/signIn`|
+|User|[Get My UserInfo](#get-my-userinfo)|GET|`/api/user`|
+|User|[Get My Books, Reviews and Quotes]()||``|
+|Square|[Get All Reviews]()||``|
+|Square|[Get All Quotes]()||``|
+|Space|[Get a Space](#get-a-space)|GET|`/api/space/[spaceId]`|
+|Space|[Modify a Space](#modify-a-space)|PATCH|`/api/space/[spaceId]`|
+|Salon|[Get a Salon](#get-a-salon)|GET|`/api/salon/[salonId]`|
+|Salon|[Modify a Salon](#modify-a-salon)|PATCH|`/api/salon/[salonId]`|
+|Salon|[Delete a Salon](#delete-a-salon)|DELETE|`/api/salon/[salonId]`|
+|Book|[Get a Book]()|GET|`/api`|
+|Book|[Add a Book to My space]()|GET|`/api`|
+|Book|[Add a Book to Salon]()|GET|`/api`|
+|Book|[Delete a Book from My space]()|GET|`/api`|
+|Book|[Delete a Book from Salon]()|GET|`/api`|
+|Review|[Get all Reviews in a Book]()|GET|`/api`|
+|Review|[Get a Review]()|GET|`/api`|
+|Review|[Create a Review]()|GET|`/api`|
+|Review|[Modify a Review]()|GET|`/api`|
+|Review|[Delete a Review]()|GET|`/api`|
+|Review Comment|[Get all Review Comments in a Review]()|GET|`/api`|
+|Review Comment|[Create a Review Comment]()|GET|`/api`|
+|Review Comment|[Modify a Review Comment]()|GET|`/api`|
+|Review Comment|[Delete a Review Comment]()|GET|`/api`|
+|Quote|[Get all Quotes in a Book]()|GET|`/api`|
+|Quote|[Get a Quote]()|GET|`/api`|
+|Quote|[Create a Quote]()|GET|`/api`|
+|Quote|[Modify a Quote]()|GET|`/api`|
+|Quote|[Delete a Quote]()|GET|`/api`|
+|Quote Comment|[Get all Quote Comments in a Quote]()|GET|`/api`|
+|Quote Comment|[Create a Quote Comment]()|GET|`/api`|
+|Quote Comment|[Modify a Quote Comment]()|GET|`/api`|
+|Quote Comment|[Delete a Quote Comment]()|GET|`/api`|
 
 # Sign Up
 
