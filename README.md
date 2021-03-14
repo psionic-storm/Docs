@@ -82,6 +82,7 @@
 |REST|📝 [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)<br>[🎥 그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc)|
 |Database|[🖋 다대다(M:N) 관계 연결테이블로 구현하기](https://siyoon210.tistory.com/26)|
 |SQL|[🎥 SQL Joins Explained \|¦\| Joins in SQL \|¦\| SQL Tutorial](https://www.youtube.com/watch?v=9yeOJ0ZMUYw)<br>[🎥 SQL Joins Tutorial For Beginners \| Inner, Left, Right, Full Join \| SQL Joins With Examples \| Edureka](https://www.youtube.com/watch?v=bLL5NbBEg2I)<br>[📕 13.2.10.2 JOIN Clause](https://dev.mysql.com/doc/refman/8.0/en/join.html)<br>[🎥 MySQL Crash Course \| Learn SQL](https://youtu.be/9ylj9NR0Lcg?t=3)|
+|Test|[🎥 [A5] 프론트엔드에서 TDD가 가능하다는 것을 보여드립니다.](https://www.youtube.com/watch?v=L1dtkLeIz-M)|
 |Regex|[❓ Regex to test if string begins with http:// or https://](https://stackoverflow.com/questions/4643142/regex-to-test-if-string-begins-with-http-or-https)|
 |Versioning|[📕 유의적 버전 2.0.0-ko2](https://semver.org/lang/ko/)<br>[🖋 Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)|
 |SSR|[🖋 웹 성능 최적화 SSR + Cache 적용기](https://medium.com/wantedjobs/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-ssr-cache-%EC%A0%81%EC%9A%A9%EA%B8%B0-bf022e3a1a72)<br>[🖋 React SSR 그 고통의 기록](https://www.seokjun.kim/react-ssr-the-record-of-pain/)|
