@@ -1,5 +1,4 @@
-# API Specification
-## Sign Up
+# Sign Up
 
 ### Method & Endpoint
 ```
@@ -32,7 +31,7 @@ Status: 409 Conflict
 }
 ```
 
-## Sign In
+# Sign In
 ### Method & Endpoint
 ```
 GET /api/signIn
@@ -62,7 +61,7 @@ Status: 401 Unauthorized
 Unauthorized
 ```
 
-### Get My UserInfo
+# Get My UserInfo
 ### Method & Endpoint
 ```
 GET /api/user
