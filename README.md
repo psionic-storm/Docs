@@ -13,7 +13,7 @@
 |10|2021.03.11|API|Database|✅ SQL Statements|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
 |11|2021.03.12|API|Feature|😱 Set up base APIs|-|
 |12|2021.03.13|API|Feature|😱 Set up base APIs|-|
-|13|2021.03.14|API|Docs<br>Feature|😱 API Specification<br>😱 Set up base APIs|-<br>-|
+|13|2021.03.14|API|Docs<br>Feature|✅ API Specification<br>😱 Set up base APIs|[API Specification](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)<br>-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -26,7 +26,7 @@
 |4|✅|Docs|Update Mind map|2021.03.05|2021.03.05|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)|
 |5|✅|Database|ERDiagram|2021.03.07|2021.03.10|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|
 |6|✅|Database|SQL Statements|2021.03.11|2021.03.11|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
-|7|😱|Docs|API Specification|2021.03.14|2021.03.14|-|
+|7|✅|Docs|API Specification|2021.03.14|2021.03.14|[API Specification](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|
 |8|😱|Feature|Set up base APIs|2021.03.11|2021.03.14|-|
 
 ### Web
@@ -61,7 +61,7 @@
 |7|Web|Design|[Figma Web v0.2.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=17%3A2)|2021.03.07|
 |8|API|Database|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|2021.03.10|
 |9|API|Database|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|2021.03.11|
-|10|API|Docs|[API Specification]()|2021.03.14|
+|10|API|Docs|[API Specification](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|2021.03.14|
 
 ## 🐊 References
 📕 Official document  
