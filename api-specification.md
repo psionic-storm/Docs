@@ -2,7 +2,7 @@
 ## Sign Up
 
 ### Method & Endpoint
-`POST /api/signUp`
+```POST /api/signUp```
 ### Parameters
 *In : header, path, query, body
 
@@ -13,7 +13,7 @@
 |nickname|string|body|nickname|
 
 ### Default Response
-`Status: 201 Created`
+```Status: 201 Created```
 
 ```
 34
