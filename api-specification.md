@@ -149,7 +149,7 @@ Status: 200 OK
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
             "book_author": "Also Sprach Zarathustra",
-            "salon": "null",
+            "salon": null,
             "space": "Granzort's space",
         }
     ]
@@ -183,7 +183,7 @@ Status: 200 OK
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
             "book_author": "Also Sprach Zarathustra",
-            "salon": "null",
+            "salon": null,
             "space": "Granzort's space",
         }
     ]
@@ -271,7 +271,7 @@ Status: 200 OK
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
             "book_author": "Also Sprach Zarathustra",
-            "salon": "null",
+            "salon": null,
             "space": "Granzort's space",
         }
     ],
@@ -284,7 +284,7 @@ Status: 200 OK
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
             "book_author": "Also Sprach Zarathustra",
-            "salon": "null",
+            "salon": null,
             "space": "Granzort's space",
         }
     ]
@@ -458,7 +458,7 @@ Status: 200 OK
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
             "book_author": "Also Sprach Zarathustra",
-            "salon": "null",
+            "salon": null,
             "space": "Granzort's space",
         }
     ],
@@ -471,7 +471,7 @@ Status: 200 OK
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
             "book_author": "Also Sprach Zarathustra",
-            "salon": "null",
+            "salon": null,
             "space": "Granzort's space",
         }
     ]
