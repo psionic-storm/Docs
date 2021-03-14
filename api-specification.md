@@ -27,8 +27,8 @@ Status: 201 Created
 Status: 409 Conflict
 ```
 ```json
-{ 
-    "message": "이미 있는 아이디"
+{
+  "message": 34
 }
 ```
 
