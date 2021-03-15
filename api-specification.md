@@ -12,7 +12,7 @@
 |📂 Space|[Add a Book to My space](#space---add-a-book-to-my-space)|POST|`/api/space/[spaceId]/book`|
 |📂 Space|[Delete a Book from My space](#space---delete-a-book-from-my-space)|DELETE|`/api/space/[spaceId]/book/[bookId]`|
 |📂 Space|[Create a Review](#space---create-a-review)|POST|`/api/space/[spaceId]/book/[bookId]/review`|
-|📂 Space|[Modify a Review](#space---modify-a-review)|PATCH|`/api/space/[spaceId]/book/[bookId]/review`|
+|📂 Space|[Modify a Review](#space---modify-a-review)|PATCH|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]`|
 |📂 Space|[Delete a Review](#space---delete-a-review)|DELETE|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]`|
 |📂 Space|[Get all Review Comments in a Review](#space---get-all-review-comments-in-a-review)|GET|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment`|
 |📂 Space|[Create a Review Comment](#space---create-a-review-comment)|POST|`/api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment`|
