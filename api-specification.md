@@ -153,6 +153,7 @@ Status: 200 OK
 {
     "reviews": [
         {
+            "id": 1,
             "title": "I am Zarathustra..",
             "content": "this is..",
             "reviewer": "Granzort",
@@ -187,6 +188,7 @@ Status: 200 OK
 {
     "quotes": [
         {
+            "id":1,
             "title": "I am Zarathustra..",
             "content": "this is..",
             "page": 218,
