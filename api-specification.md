@@ -279,6 +279,8 @@ Status: 200 OK
     "title": "Also Sprach Zarathustra",
     "author": "Friedrich Nietzsche",
     "description": "Long time ago...",
+    "salon": null,
+    "space": "Granzort's space",
     "reviews": [
         {
             "title": "I am Zarathustra..",
@@ -288,8 +290,6 @@ Status: 200 OK
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
             "book_author": "Friedrich Nietzsche",
-            "salon": null,
-            "space": "Granzort's space",
         }
     ],
     "quotes": [
@@ -302,8 +302,6 @@ Status: 200 OK
             "updated_at": "2020-01-02",
             "book_title": "Also Sprach Zarathustra",
             "book_author": "Friedrich Nietzsche",
-            "salon": null,
-            "space": "Granzort's space",
         }
     ]
 }
