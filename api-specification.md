@@ -220,16 +220,19 @@ GET /api/space/[spaceId]
 Status: 200 OK
 ```
 ```json
+{
     "owner_id": "jungcome7",
     "owner_nickname": "Granzort",
     "name": "Granzort's space",
     "books": [
         {
+            "id": 1,
             "title": "Also Sprach Zarathustra",
             "author": "Friedrich Nietzsche",
             "description": "Long time ago..."
         }
     ]
+}
 ```
 
 # Space - Modify a Space
