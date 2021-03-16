@@ -52,7 +52,7 @@
 
 ### Method & Endpoint
 ```
-POST /api/signUp
+POST /api/user/signUp
 ```
 ### Parameters
 *In : header, path, query, body
@@ -76,15 +76,15 @@ Status: 201 Created
 Status: 409 Conflict
 ```
 ```json
-{ 
-    "message": "이미 있는 아이디"
+{
+    "message": "ID already exists"
 }
 ```
 
 # User - Sign In
 ### Method & Endpoint
 ```
-GET /api/signIn
+GET /api/user/signIn
 ```
 
 ### Parameters
@@ -128,9 +128,10 @@ Status: 200 OK
 
 ```json
 {
-    "id": 33,
-    "login_id": "jungcome7",
-    "nickname": "Granzort"
+    "id": 35,
+    "loginId": "myId",
+    "nickname": "myNickname",
+    "iat": 1615867236
 }
 ```
 
@@ -152,20 +153,18 @@ Status: 200 OK
 ```
 ```json
 {
-    "reviews": [
-        {
-            "id": 1,
-            "title": "I am Zarathustra..",
-            "content": "this is..",
-            "reviewer": "Granzort",
-            "created_at": "2020-01-02",
-            "updated_at": "2020-01-02",
-            "book_title": "Also Sprach Zarathustra",
-            "book_author": "Friedrich Nietzsche",
-            "salon": null,
-            "space": "Granzort's space",
-        }
-    ]
+    {
+        "id": 1,
+        "title": "asdf",
+        "content": "22131",
+        "reviewer": "Granzort",
+        "created_at": "2019-12-31T15:00:00.000Z",
+        "updated_at": "2019-12-31T15:00:00.000Z",
+        "book_title": "차라투스트라는 이렇게 말했다",
+        "book_author": "니체",
+        "salon": "G salon",
+        "space": null
+    },
 }
 ```
 
@@ -186,23 +185,20 @@ GET /api/square/quotes
 Status: 200 OK
 ```
 ```json
-{
-    "quotes": [
-        {
-            "id":1,
-            "title": "I am Zarathustra..",
-            "content": "this is..",
-            "page": 218,
-            "quoter": "Granzort",
-            "created_at": "2020-01-02",
-            "updated_at": "2020-01-02",
-            "book_title": "Also Sprach Zarathustra",
-            "book_author": "Friedrich Nietzsche",
-            "salon": null,
-            "space": "Granzort's space",
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "content": "32",
+        "page": 123,
+        "quoter": "Granzort",
+        "created_at": "2019-12-31T15:00:00.000Z",
+        "updated_at": "2019-12-31T15:00:00.000Z",
+        "book_title": "차라투스트라는 이렇게 말했다",
+        "book_author": "니체",
+        "salon": "G salon",
+        "space": null
+    },
+]
 ```
 
 # Space - Get a Space
@@ -222,15 +218,16 @@ Status: 200 OK
 ```
 ```json
 {
-    "owner_id": "jungcome7",
-    "owner_nickname": "Granzort",
-    "name": "Granzort's space",
+    "id": 3,
+    "name": "my space",
+    "owner_id": 35,
+    "owner_nickname": "myNickname",
     "books": [
         {
-            "id": 1,
-            "title": "Also Sprach Zarathustra",
-            "author": "Friedrich Nietzsche",
-            "description": "Long time ago..."
+            "id": 12,
+            "title": "bookkkkk",
+            "author": "mememem",
+            "description": "anananan"
         }
     ]
 }
@@ -277,35 +274,37 @@ Status: 200 OK
 ```
 ```json
 {
-    "title": "Also Sprach Zarathustra",
-    "author": "Friedrich Nietzsche",
-    "description": "Long time ago...",
-    "salon": null,
-    "space": "Granzort's space",
+    "id": 12,
+    "title": "bookkkkk",
+    "author": "mememem",
+    "description": "anananan",
     "reviews": [
         {
-            "id":1,
-            "title": "I am Zarathustra..",
-            "content": "this is..",
-            "reviewer": "Granzort",
-            "created_at": "2020-01-02",
-            "updated_at": "2020-01-02",
-            "book_title": "Also Sprach Zarathustra",
-            "book_author": "Friedrich Nietzsche",
-        }
+            "id": 8,
+            "title": "adsfaf",
+            "content": "ddddd",
+            "reviewer": "myNickname",
+            "created_at": "2021-03-16T05:19:51.000Z",
+            "updated_at": "2021-03-16T05:19:51.000Z",
+            "book_title": "bookkkkk",
+            "book_author": "mememem",
+            "salon": null,
+            "space": "update"
+        },
     ],
     "quotes": [
         {
-            "id":1,
-            "title": "I am Zarathustra..",
-            "content": "this is..",
-            "page": 218,
-            "quoter": "Granzort",
-            "created_at": "2020-01-02",
-            "updated_at": "2020-01-02",
-            "book_title": "Also Sprach Zarathustra",
-            "book_author": "Friedrich Nietzsche",
-        }
+            "id": 6,
+            "content": "myquotes",
+            "page": 213,
+            "quoter": "myNickname",
+            "created_at": "2021-03-16T08:15:30.000Z",
+            "updated_at": "2021-03-16T08:15:30.000Z",
+            "book_title": "bookkkkk",
+            "book_author": "mememem",
+            "salon": null,
+            "space": "update"
+        },
     ]
 }
 ```
@@ -349,7 +348,19 @@ DELETE /api/space/[spaceId]/book/[bookId]
 Status: 200 OK
 ```
 ```json
-{ "message": "deleted successfully" }
+{ 
+    "message": "deleted successfully"
+}
+```
+
+### Nothing to Delete
+```
+Status: 200 OK
+```
+```json
+{
+    "messgage": "no items to delete"
+}
 ```
 
 # Space - Create a Review
@@ -421,6 +432,15 @@ Status: 200 OK
     "message": "deleted successfully"
 }
 ```
+### Nothing to Delete
+```
+Status: 200 OK
+```
+```json
+{
+    "messgage": "no items to delete"
+}
+```
 
 # Space - Get all Review Comments in a Review
 ### Method & Endpoint
@@ -440,16 +460,15 @@ GET /api/space/[spaceId]/book/[bookId]/review/[reviewId]/comment
 Status: 200 OK
 ```
 ```json
-{
-    "review_comments": [
-        {
-            "comment": "this is..",
-            "commenter": "Granzort",
-            "created_at": "2020-01-02",
-            "updated_at": "2020-01-02",
-        }
-    ]
-}
+[
+    {
+        "id": 5,
+        "comment": "ASDFASDF",
+        "created_at": "2019-12-31T15:00:00.000Z",
+        "updated_at": "2019-12-31T15:00:00.000Z",
+        "commenter": "myNickname"
+    }
+]
 ```
 
 
@@ -523,6 +542,16 @@ Status: 200 OK
 }
 ```
 
+### Nothing to Delete
+```
+Status: 200 OK
+```
+```json
+{
+    "messgage": "no items to delete"
+}
+```
+
 # Space - Create a Quote
 ### Method & Endpoint
 ```
@@ -593,6 +622,16 @@ Status: 200 OK
 }
 ```
 
+### Nothing to Delete
+```
+Status: 200 OK
+```
+```json
+{
+    "messgage": "no items to delete"
+}
+```
+
 # Space - Get all quote Comments in a Quote
 ### Method & Endpoint
 ```
@@ -611,16 +650,15 @@ GET /api/space/[spaceId]/book/[bookId]/quote/[quoteId]/comment
 Status: 200 OK
 ```
 ```json
-{
-    "quote_comments": [
-        {
-            "comment": "this is..",
-            "commenter": "Granzort",
-            "created_at": "2020-01-02",
-            "updated_at": "2020-01-02",
-        }
-    ]
-}
+[
+    {
+        "id": 5,
+        "comment": "mycommmmment for quote",
+        "created_at": "2021-03-16T08:17:01.000Z",
+        "updated_at": "2021-03-16T08:17:01.000Z",
+        "commenter": "myNickname"
+    },
+]
 ```
 
 
@@ -694,6 +732,16 @@ Status: 200 OK
 }
 ```
 
+### Nothing to Delete
+```
+Status: 200 OK
+```
+```json
+{
+    "messgage": "no items to delete"
+}
+```
+
 # Salon - Add a Salon
 
 ### Method & Endpoint
@@ -732,18 +780,22 @@ Status: 200 OK
 ```
 ```json
 {
-    "name": "MadoKing Granzort",
-    "owner_id": "jungcome7",
-    "owner_nickname": "Granzort",
-    "participants": [
-        { "login_id": "mooncrystalpwr", "nickname": "Poseidon" },
-        { "login_id": "fouriertrf", "nickname": "Zarathustra" }
-    ],
+    "id": 7,
+    "name": "my first salon updated",
+    "creator_nickname": "myNickname",
     "books": [
         {
-            "title": "Also Sprach Zarathustra",
-            "author": "Friedrich Nietzsche",
-            "description": "Long time ago..."
+            "id": 16,
+            "title": "add book",
+            "author": "add author",
+            "description": "desdcccc"
+        }
+    ],
+    "participants": [
+        {
+            "id": 35,
+            "login_id": "myId",
+            "nickname": "myNickname"
         }
     ]
 }
@@ -811,6 +863,16 @@ Status: 200 OK
 }
 ```
 
+### Nothing to Delete
+```
+Status: 200 OK
+```
+```json
+{
+    "messgage": "no items to delete"
+}
+```
+
 # Salon - Get a Book in the Salon
 ### Method & Endpoint
 ```
@@ -829,35 +891,37 @@ Status: 200 OK
 ```
 ```json
 {
-    "title": "Also Sprach Zarathustra",
-    "author": "Friedrich Nietzsche",
-    "description": "Long time ago...",
+    "id": 16,
+    "title": "add book",
+    "author": "add author",
+    "description": "desdcccc",
     "reviews": [
         {
-            "title": "I am Zarathustra..",
-            "content": "this is..",
-            "reviewer": "Granzort",
-            "created_at": "2020-01-02",
-            "updated_at": "2020-01-02",
-            "book_title": "Also Sprach Zarathustra",
-            "book_author": "Friedrich Nietzsche",
-            "salon": null,
-            "space": "Granzort's space",
-        }
+            "id": 13,
+            "title": "my review",
+            "content": "my salon review",
+            "reviewer": "myNickname",
+            "created_at": "2021-03-16T12:35:37.000Z",
+            "updated_at": "2021-03-16T12:35:37.000Z",
+            "book_title": "add book",
+            "book_author": "add author",
+            "salon": "my first salon updated",
+            "space": null
+        },
     ],
     "quotes": [
         {
-            "title": "I am Zarathustra..",
-            "content": "this is..",
-            "page": 218,
-            "quoter": "Granzort",
-            "created_at": "2020-01-02",
-            "updated_at": "2020-01-02",
-            "book_title": "Also Sprach Zarathustra",
-            "book_author": "Friedrich Nietzsche",
-            "salon": null,
-            "space": "Granzort's space",
-        }
+            "id": 11,
+            "content": "my comment",
+            "page": 123,
+            "quoter": "myNickname",
+            "created_at": "2021-03-16T12:41:05.000Z",
+            "updated_at": "2021-03-16T12:41:05.000Z",
+            "book_title": "add book",
+            "book_author": "add author",
+            "salon": "my first salon updated",
+            "space": null
+        },
     ]
 }
 ```
@@ -900,6 +964,16 @@ Status: 200 OK
 ```
 ```json
 { "message": "deleted successfully" }
+```
+
+### Nothing to Delete
+```
+Status: 200 OK
+```
+```json
+{
+    "messgage": "no items to delete"
+}
 ```
 
 
@@ -973,6 +1047,16 @@ Status: 200 OK
 }
 ```
 
+### Nothing to Delete
+```
+Status: 200 OK
+```
+```json
+{
+    "messgage": "no items to delete"
+}
+```
+
 # Salon - Get all Review Comments in a Review
 ### Method & Endpoint
 ```
@@ -991,16 +1075,15 @@ GET /api/salon/[salonId]/book/[bookId]/review/[reviewId]/comment
 Status: 200 OK
 ```
 ```json
-{
-    "review_comments": [
-        {
-            "comment": "this is..",
-            "commenter": "Granzort",
-            "created_at": "2020-01-02",
-            "updated_at": "2020-01-02",
-        }
-    ]
-}
+[
+    {
+        "id": 9,
+        "comment": "sadfadfkah",
+        "created_at": "2021-03-16T07:24:00.000Z",
+        "updated_at": "2021-03-16T07:24:00.000Z",
+        "commenter": "myNickname"
+    },
+]
 ```
 
 # Salon - Create a Review Comment
@@ -1072,6 +1155,17 @@ Status: 200 OK
     "message": "deleted successfully"
 }
 ```
+
+### Nothing to Delete
+```
+Status: 200 OK
+```
+```json
+{
+    "messgage": "no items to delete"
+}
+```
+
 # Salon - Create a Quote
 ### Method & Endpoint
 ```
@@ -1142,6 +1236,16 @@ Status: 200 OK
 }
 ```
 
+### Nothing to Delete
+```
+Status: 200 OK
+```
+```json
+{
+    "messgage": "no items to delete"
+}
+```
+
 # Salon - Get all quote Comments in a Quote
 ### Method & Endpoint
 ```
@@ -1160,16 +1264,15 @@ GET /api/salon/[salonId]/book/[bookId]/quote/[quoteId]/comment
 Status: 200 OK
 ```
 ```json
-{
-    "quote_comments": [
-        {
-            "comment": "this is..",
-            "commenter": "Granzort",
-            "created_at": "2020-01-02",
-            "updated_at": "2020-01-02",
-        }
-    ]
-}
+[
+    {
+        "id": 12,
+        "comment": "my comment",
+        "created_at": "2021-03-16T12:43:00.000Z",
+        "updated_at": "2021-03-16T12:43:00.000Z",
+        "commenter": "myNickname"
+    },
+]
 ```
 
 
@@ -1240,5 +1343,15 @@ Status: 200 OK
 ```json
 {
     "message": "deleted successfully"
+}
+```
+
+### Nothing to Delete
+```
+Status: 200 OK
+```
+```json
+{
+    "messgage": "no items to delete"
 }
 ```
