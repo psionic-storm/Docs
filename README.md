@@ -15,7 +15,8 @@
 |12|2021.03.13|API|Feature|😱 Set up base APIs|-|
 |13|2021.03.14|API|Docs<br>Feature|✅ API Specification<br>😱 Set up base APIs|[API Specification](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)<br>-|
 |14|2021.03.15|API|Feature|😱 Set up base APIs|-|
-|15|2021.03.16|API|Feature|😱 Set up base APIs|-|
+|15|2021.03.16|API|Feature|✅ Set up base APIs|-|
+|16|2021.03.17|Web|Feature|😱 Set up UI components|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -29,7 +30,7 @@
 |5|✅|Database|ERDiagram|2021.03.07|2021.03.10|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|
 |6|✅|Database|SQL Statements|2021.03.11|2021.03.11|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
 |7|✅|Docs|API Specification|2021.03.14|2021.03.14|[API Specification](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|
-|8|😱|Feature|Set up base APIs|2021.03.11|2021.03.15|-|
+|8|✅|Feature|Set up base APIs|2021.03.11|2021.03.16|-|
 
 ### Web
 |No.||Category|To-Do|Start|End|Output|
@@ -40,6 +41,7 @@
 |4|✅|Docs|Update Flowchart|2021.03.05|2021.03.05|[Flowchart v0.2.0](https://miro.com/app/board/o9J_lRRmIS0=/)|
 |5|✅|Design|Figma design details|2021.03.06|2021.03.07|[Figma Web v0.2.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=17%3A2)|
 |6|✅|Design|Define color variables|2021.03.06|2021.03.06|[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|
+|6|😱|Feature|Set up UI components|2021.03.17|2021.03.17|-|
 
 
 ### Desktop
