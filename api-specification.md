@@ -25,6 +25,7 @@
 |📂 Space|[Create a Quote Comment](#space---create-a-quote-comment)|POST|`/api/space/[spaceId]/book/[bookId]/quote/[quoteId]/comment`|
 |📂 Space|[Modify a Quote Comment](#space---modify-a-quote-comment)|PATCH|`/api/space/[spaceId]/book/[bookId]/quote/[quoteId]/comment/[commentId]`|
 |📂 Space|[Delete a Quote Comment](#space---delete-a-quote-comment)|DELETE|`/api/space/[spaceId]/book/[bookId]/quote/[quoteId]/comment/[commentId]`|
+|💒 Salon|[Add a Salon](#salon---add-a-salon)|GET|`/api/salon`|
 |💒 Salon|[Get a Salon](#salon---get-a-salon)|GET|`/api/salon/[salonId]`|
 |💒 Salon|[Modify a Salon](#salon---modify-a-salon)|PATCH|`/api/salon/[salonId]`|
 |💒 Salon|[Delete a Salon](#salon---delete-a-salon)|DELETE|`/api/salon/[salonId]`|
@@ -693,6 +694,26 @@ Status: 200 OK
 }
 ```
 
+# Salon - Add a Salon
+
+### Method & Endpoint
+```
+POST /api/salon
+```
+
+### Parameters
+|Name|Type|In|Description|
+|-|-|-|-|
+|name|string|body|salon name|
+
+### Default Response
+```
+Status: 200 OK
+```
+```json
+21
+```
+
 # Salon - Get a Salon
 
 ### Method & Endpoint
@@ -725,6 +746,7 @@ Status: 200 OK
             "description": "Long time ago..."
         }
     ]
+}
 ```
 
 # Salon - Create a Salon
