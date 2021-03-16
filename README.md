@@ -101,6 +101,7 @@
 |Design System|[🖋 와디즈의 디자인 시스템 구축](https://medium.com/wadiz/%EC%99%80%EB%94%94%EC%A6%88%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-c7f32a948814)<br>[🖋 Effective Atomic Design](https://blog.cobalt.run/posts/effective-atomic-design?fbclid=IwAR1WErrjNiXdFQsUODUxgc1UKh6PPhYFRtjzx1UzodXjhETiNZPPtzUfTwM)|
 |UX|[🎥 [A5] 개발자를 위한 UX programming - 윤지수](https://youtu.be/lRt3ecDm8AI)|
 |iframe|[🎥 [A3] iframe을 활용하여 전혀 다른 Service를 통합하기](https://www.youtube.com/watch?v=kZO5PEypjVg)|
+|Security|[🖋 웹 개발을 위해 꼭 알아야하는 보안 공격](https://kciter.so/posts/basic-web-hacking)|
 |Figma|🎥 [The Figma 2021 Crash Course by Example](https://www.youtube.com/watch?v=Gu1so3pz4bA)<br>🎥 [Figma in 40 Minutes](https://www.youtube.com/watch?v=4W4LvJnNegA)<br>🎥 [10 tips to work 10x faster in Figma](https://www.youtube.com/watch?v=i-9mgOL3mHw)<br>[🎥 How I organize my Figma files to overcome the creative block (with Template)](https://www.youtube.com/watch?v=C4LIC2n6pkw)|
 |Terms|[📃 Upsert](https://en.wiktionary.org/wiki/upsert)<br>[📃 Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)|
 |License|[📃 MIT 허가서](https://ko.m.wikipedia.org/wiki/MIT_%ED%97%88%EA%B0%80%EC%84%9C)|
