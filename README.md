@@ -17,7 +17,8 @@
 |14|2021.03.15|API|Feature|😱 Set up base APIs|-|
 |15|2021.03.16|API|Feature|✅ Set up base APIs|-|
 |16|2021.03.17|Web|Docs<br>Feature|✅ Component Hierarchy<br>😱 Set up UI components|[Component Hierarchy](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=87%3A794)<br>-|
-|16|2021.03.18|Web|Feature|😱 Set up UI components|-|
+|17|2021.03.18|Web|Feature|✅ Set up UI components|-|
+|18|2021.03.19|Web|Feature|😱 Set up API, Redux, Redux-saga|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -43,7 +44,8 @@
 |5|✅|Design|Figma design details|2021.03.06|2021.03.07|[Figma Web v0.2.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=17%3A2)|
 |6|✅|Design|Define color variables|2021.03.06|2021.03.06|[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|
 |7|✅|Docs|Component Hierarchy|2021.03.17|2021.03.17|[Component Hierarchy](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=87%3A794)|
-|8|😱|Feature|Set up UI components|2021.03.17|2021.03.18|-|
+|8|✅|Feature|Set up UI components|2021.03.17|2021.03.18|-|
+|8|😱|Feature|Set up API, Redux, Redux-saga|2021.03.19|2021.03.19|-|
 
 
 ### Desktop
