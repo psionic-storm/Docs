@@ -20,8 +20,8 @@
 |17|2021.03.18|Web|Feature|✅ Set up UI components|-|
 |18|2021.03.19|Web|Feature|😱 Set up API, Redux, Redux-saga|-|
 |19|2021.03.20|Web|Feature|😱 Set up API, Redux, Redux-saga|-|
-|19|2021.03.21|Web|Feature|✅ Set up API, Redux, Redux-saga|-|
-|19|2021.03.22|Web|Feature|😱 UI Component Details|-|
+|20|2021.03.21|Web|Feature|✅ Set up API, Redux, Redux-saga|-|
+|21|2021.03.22|Web|Feature|😱 UI Component Details|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
