@@ -19,7 +19,9 @@
 |16|2021.03.17|Web|Docs<br>Feature|✅ Component Hierarchy<br>😱 Set up UI components|[Component Hierarchy](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=87%3A794)<br>-|
 |17|2021.03.18|Web|Feature|✅ Set up UI components|-|
 |18|2021.03.19|Web|Feature|😱 Set up API, Redux, Redux-saga|-|
-|19|2021.03.20|Web|Feature|✅ Set up API, Redux, Redux-saga|-|
+|19|2021.03.20|Web|Feature|😱 Set up API, Redux, Redux-saga|-|
+|19|2021.03.21|Web|Feature|✅ Set up API, Redux, Redux-saga|-|
+|19|2021.03.22|Web|Feature|😱 UI Component Details|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -34,7 +36,7 @@
 |6|✅|Database|SQL Statements|2021.03.11|2021.03.11|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
 |7|✅|Docs|API Specification|2021.03.14|2021.03.14|[API Specification](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|
 |8|✅|Feature|Set up base APIs|2021.03.11|2021.03.16|-|
-|9|😱|Test|Unit & Integration Test with Jest|2021.03.22|2021.03.24|-|
+|9|😱|Test|Unit & Integration Test with Jest|2021.03.24|2021.03.25|-|
 
 ### Web
 |No.||Category|To-Do|Start|End|Output|
@@ -47,9 +49,10 @@
 |6|✅|Design|Define color variables|2021.03.06|2021.03.06|[Figma psionic-storm colors](https://www.figma.com/file/Kip5sRK5MW7QrRnu8GCxjV/psionic-storm-colors?node-id=0%3A1)|
 |7|✅|Docs|Component Hierarchy|2021.03.17|2021.03.17|[Component Hierarchy](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=87%3A794)|
 |8|✅|Feature|Set up UI components|2021.03.17|2021.03.18|-|
-|9|✅|Feature|Set up API, Redux, Redux-saga|2021.03.19|2021.03.20|-|
-|10|😱|Test|Set up Storybook|2021.03.21|2021.03.22|-|
-|11|😱|Test|Unit & Integration Test with Jest & React Testing Library|2021.03.22|2021.03.23|-|
+|9|✅|Feature|Set up API, Redux, Redux-saga|2021.03.19|2021.03.21|-|
+|10|😱|Feature|UI Component Details|2021.03.22|2021.03.22|-|
+|11|😱|Test|Set up Storybook|2021.03.22|2021.03.23|-|
+|12|😱|Test|Unit & Integration Test with Jest & React Testing Library|2021.03.23|2021.03.24|-|
 
 
 ### Desktop
