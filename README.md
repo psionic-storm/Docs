@@ -21,7 +21,12 @@
 |18|2021.03.19|Web|Feature|😱 Set up API, Redux, Redux-saga|-|
 |19|2021.03.20|Web|Feature|😱 Set up API, Redux, Redux-saga|-|
 |20|2021.03.21|Web|Feature|✅ Set up API, Redux, Redux-saga|-|
-|21|2021.03.22|Web|Feature|😱 UI Component Details|-|
+|21|2021.03.22|-|-|🚑 Anal Disease|-|
+|22|2021.03.23|-|-|🚑 Anal Disease|-|
+|23|2021.03.24|-|-|🚑 Anal Disease|-|
+|24|2021.03.25|-|-|🚑 Anal Disease|-|
+|25|2021.03.26|Web|Feature|😱 UI Component Details|-|
+|26|2021.03.27|Web|Feature|😱 UI Component Details|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
