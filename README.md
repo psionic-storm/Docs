@@ -117,6 +117,7 @@
 |Versioning|[📕 유의적 버전 2.0.0-ko2](https://semver.org/lang/ko/)<br>[🖋 Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)|
 |SSR|[🖋 웹 성능 최적화 SSR + Cache 적용기](https://medium.com/wantedjobs/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-ssr-cache-%EC%A0%81%EC%9A%A9%EA%B8%B0-bf022e3a1a72)<br>[🖋 React SSR 그 고통의 기록](https://www.seokjun.kim/react-ssr-the-record-of-pain/)<br>[🎥 Node 서버를 이용한 SSR 사용기](https://youtu.be/5M58QWto4s0?t=3)|
 |Design|[📕 Apple - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)|
+|CI/CD|[🖋 6) 스프링부트로 웹 서비스 출시하기 - 6. TravisCI & AWS CodeDeploy로 배포 자동화 구축하기](https://jojoldu.tistory.com/265)|
 |Design System|[🖋 와디즈의 디자인 시스템 구축](https://medium.com/wadiz/%EC%99%80%EB%94%94%EC%A6%88%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-c7f32a948814)<br>[🖋 Effective Atomic Design](https://blog.cobalt.run/posts/effective-atomic-design?fbclid=IwAR1WErrjNiXdFQsUODUxgc1UKh6PPhYFRtjzx1UzodXjhETiNZPPtzUfTwM)|
 |UX|[🎥 [A5] 개발자를 위한 UX programming - 윤지수](https://youtu.be/lRt3ecDm8AI)|
 |iframe|[🎥 [A3] iframe을 활용하여 전혀 다른 Service를 통합하기](https://www.youtube.com/watch?v=kZO5PEypjVg)|
