@@ -27,6 +27,8 @@
 |24|2021.03.25|-|-|🚑 Anal Disease|-|
 |25|2021.03.26|Web|Feature|😱 UI Component Details|-|
 |26|2021.03.27|Web|Feature|😱 UI Component Details|-|
+|27|2021.03.28|Web|Feature|😱 UI Component Details|-|
+|28|2021.03.29|Web|Feature|😱 UI Component Details|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
