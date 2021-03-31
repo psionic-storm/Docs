@@ -29,6 +29,8 @@
 |26|2021.03.27|Web|Feature|😱 UI Component Details|-|
 |27|2021.03.28|Web|Feature|😱 UI Component Details|-|
 |28|2021.03.29|Web|Feature|😱 UI Component Details|-|
+|29|2021.03.30|Web|Feature|😱 UI Component Details|-|
+|30|2021.03.31|Web|Feature|😱 UI Component Details|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
