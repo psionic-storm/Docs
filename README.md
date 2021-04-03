@@ -31,6 +31,10 @@
 |28|2021.03.29|Web|Feature|😱 UI Component Details|-|
 |29|2021.03.30|Web|Feature|😱 UI Component Details|-|
 |30|2021.03.31|Web|Feature|😱 UI Component Details|-|
+|31|2021.04.01|Web|Feature|😱 UI Component Details|-|
+|32|2021.04.02|Web|Feature|😱 UI Component Details|-|
+|33|2021.04.03|Web|Feature|😱 UI Component Details|-|
+|33|2021.04.04|Web|Feature|😱 UI Component Details|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -94,7 +98,8 @@
 📝 Academic paper  
 📚 Book  
 🖋 Blog post  
-❓ Stackoverflow  
+❓ Stackoverflow    
+💿 Playlist  
 🎥 Video  
 🎧 Music
 
@@ -102,8 +107,8 @@
 |-|-|
 |Javascript|[🖋 JavaScript CommonJS, ES6 모듈 시스템](https://bigstar-vlog.tistory.com/29)<br> [📃 DOMParser - MDN](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser)<br>[🖋 JavaScript: What is the meaning of this?](https://web.dev/javascript-this/?fbclid=IwAR3oADWK9exrAoWkspBJLgXZcwPDqyw1CEXnF0Gel77-zFjs8kvA9F0w-T0)<br>[🖋 2020년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/7226235)<br>[🖋 JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)<br>[🎥 코드스피츠 - [특강] Code Squad 윤지수 마스터님](https://www.youtube.com/watch?v=25Si0Sq3Vbs)|
 |Typescript|[🖋 Path aliases with TypeScript in Node.js](https://dev.to/larswaechter/path-aliases-with-typescript-in-nodejs-4353)<br>[🖋 TypeScript 최신 기능을 활용한 Redux 액션 타이핑](https://medium.com/@seungha_kim_IT/typescript-%EC%B5%9C%EC%8B%A0-%EA%B8%B0%EB%8A%A5%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-redux-%EC%95%A1%EC%85%98-%ED%83%80%EC%9D%B4%ED%95%91-ef46fff8850b)|
-|React.js|[🎥 React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)<br>[🎥 React Conf 2019 Day 1](https://www.youtube.com/watch?v=UxoX2faIgDQ)<br>[🎥 React Conf 2019 Day 2](https://www.youtube.com/watch?v=JDDxR1a15Yo)|
-|React-Native|[🎥 React Native Crash Course 2020](https://www.youtube.com/watch?v=Hf4MJH0jDb4)<br>[🎥 I don't *want* to use React Native](https://www.youtube.com/watch?v=E5xThvyaGbE)|
+|React.js|[🎥 React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)<br>[🎥 React Conf 2019 Day 1](https://www.youtube.com/watch?v=UxoX2faIgDQ)<br>[🎥 React Conf 2019 Day 2](https://www.youtube.com/watch?v=JDDxR1a15Yo)<br>[💿 React Hooks Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)|
+|React Native|[🎥 React Native Crash Course 2020](https://www.youtube.com/watch?v=Hf4MJH0jDb4)<br>[🎥 I don't *want* to use React Native](https://www.youtube.com/watch?v=E5xThvyaGbE)|
 |Redux|[🎥 [A2] Redux-Saga - 제너레이터, 사이드이펙트, 채널 - 이민규](https://www.youtube.com/watch?v=UxpREAHZ7Ck)|
 |Webpack|[🖋 프론트엔드 개발환경의 이해: 웹팩(기본)](https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)<br>[🖋 프론트엔드 개발환경의 이해: 웹팩(심화)](https://jeonghwan-kim.github.io/series/2020/01/02/frontend-dev-env-webpack-intermediate.html)<br>[🖋 How to change relative paths to absolute paths for imports](https://medium.com/@sherryhsu/how-to-change-relative-paths-to-absolute-paths-for-imports-32ba6cce18a5)<br>[📕 Public Path](https://webpack.js.org/guides/public-path/)<br>[❓ React-router urls don't work when refreshing or writing manually](https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writing-manually)<br>[📕 EnvironmentPlugin](https://webpack.js.org/plugins/environment-plugin/)<br>[🖋 Front에서 API Key를 숨기는 법](https://velog.io/@code-bebop/Front%EC%97%90%EC%84%9C-API-Key%EB%A5%BC-%EC%88%A8%EA%B8%B0%EB%8A%94-%EB%B2%95)|
 |Node.js|[🎥 Node.js API 서버 성능 개선기](https://youtu.be/3AMqUmrNido?t=1)<br>[🖋 What's New for Node.js in 2020](https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020)<br>[🖋 nodejs의 내부 동작 원리 (libuv, 이벤트루프, 워커쓰레드, 비동기)](https://sjh836.tistory.com/149)<br>[🖋 Node.JS 자주 사용하는 모듈 정리](https://github.com/cheese10yun/node-yun)<br>[🖋 NodeJS: In Three(ish) Minutes.](https://menuand.tistory.com/m/3?category=817925)<br>[🖋 Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)<br>[🖋 Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283?category=24)<br>[🖋 견고한 node.js 프로젝트 설계하기](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)|
