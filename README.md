@@ -13,7 +13,7 @@
 |10|2021.03.11|API|Database|✅ SQL Statements|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
 |11|2021.03.12|API|Feature|😱 Set up base APIs|-|
 |12|2021.03.13|API|Feature|😱 Set up base APIs|-|
-|13|2021.03.14|API|Docs<br>Feature|✅ API Specification<br>😱 Set up base APIs|[API Specification](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)<br>-|
+|13|2021.03.14|API|Docs<br>Feature|✅ API Specification<br>😱 Set up base APIs|[API Specification v0.1.0](https://github.com/psionic-storm/Docs/blob/main/api-specification-v0.1.0.md)<br>-|
 |14|2021.03.15|API|Feature|😱 Set up base APIs|-|
 |15|2021.03.16|API|Feature|✅ Set up base APIs|-|
 |16|2021.03.17|Web|Docs<br>Feature|✅ Component Hierarchy<br>😱 Set up UI components|[Component Hierarchy](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=87%3A794)<br>-|
@@ -34,7 +34,9 @@
 |31|2021.04.01|Web|Feature|😱 UI Component Details|-|
 |32|2021.04.02|Web|Feature|😱 UI Component Details|-|
 |33|2021.04.03|Web|Feature|😱 UI Component Details|-|
-|33|2021.04.04|Web|Feature|😱 UI Component Details|-|
+|34|2021.04.04|Web|Feature|😱 UI Component Details|-|
+|35|2021.04.05|Web|Feature|📚 Read Books|-|
+|36|2021.04.06|Web|Feature|📚 Read Books|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -47,7 +49,7 @@
 |4|✅|Docs|Update Mind map|2021.03.05|2021.03.05|[Mind map v0.2.0](https://miro.com/app/board/o9J_lRSwdrY=/)|
 |5|✅|Database|ERDiagram|2021.03.07|2021.03.10|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|
 |6|✅|Database|SQL Statements|2021.03.11|2021.03.11|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
-|7|✅|Docs|API Specification|2021.03.14|2021.03.14|[API Specification](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|
+|7|✅|Docs|API Specification|2021.03.14|2021.03.14|[API Specification v0.1.0](https://github.com/psionic-storm/Docs/blob/main/api-specification-v0.1.0.md)|
 |8|✅|Feature|Set up base APIs|2021.03.11|2021.03.16|-|
 |9|😱|Test|Unit & Integration Test with Jest|2021.03.24|2021.03.25|-|
 
@@ -89,7 +91,7 @@
 |7|Web|Design|[Figma Web v0.2.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=17%3A2)|2021.03.07|
 |8|API|Database|[ERDiagram v0.1.0](https://app.sqldbm.com/MySQL/Edit/p156749/#)|2021.03.10|
 |9|API|Database|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|2021.03.11|
-|10|API|Docs|[API Specification](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|2021.03.14|
+|10|API|Docs|[API Specification v0.1.0](https://github.com/psionic-storm/Docs/blob/main/api-specification-v0.1.0.md)|2021.03.14|
 |11|Web|Docs|[Component Hierarchy](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=87%3A794)|2021.03.17|
 
 ## 🐊 References
@@ -107,7 +109,7 @@
 |-|-|
 |Javascript|[🖋 JavaScript CommonJS, ES6 모듈 시스템](https://bigstar-vlog.tistory.com/29)<br> [📃 DOMParser - MDN](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser)<br>[🖋 JavaScript: What is the meaning of this?](https://web.dev/javascript-this/?fbclid=IwAR3oADWK9exrAoWkspBJLgXZcwPDqyw1CEXnF0Gel77-zFjs8kvA9F0w-T0)<br>[🖋 2020년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/7226235)<br>[🖋 JavaScript 번들러로 본 조선시대 붕당의 이해](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)<br>[🎥 코드스피츠 - [특강] Code Squad 윤지수 마스터님](https://www.youtube.com/watch?v=25Si0Sq3Vbs)|
 |Typescript|[🖋 Path aliases with TypeScript in Node.js](https://dev.to/larswaechter/path-aliases-with-typescript-in-nodejs-4353)<br>[🖋 TypeScript 최신 기능을 활용한 Redux 액션 타이핑](https://medium.com/@seungha_kim_IT/typescript-%EC%B5%9C%EC%8B%A0-%EA%B8%B0%EB%8A%A5%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-redux-%EC%95%A1%EC%85%98-%ED%83%80%EC%9D%B4%ED%95%91-ef46fff8850b)|
-|React.js|[🎥 React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)<br>[🎥 React Conf 2019 Day 1](https://www.youtube.com/watch?v=UxoX2faIgDQ)<br>[🎥 React Conf 2019 Day 2](https://www.youtube.com/watch?v=JDDxR1a15Yo)<br>[💿 React Hooks Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)|
+|React.js|[🎥 React Today and Tomorrow and 90% Cleaner React With Hooks](https://www.youtube.com/watch?v=dpw9EHDh2bM)<br>[🎥 React Conf 2019 Day 1](https://www.youtube.com/watch?v=UxoX2faIgDQ)<br>[🎥 React Conf 2019 Day 2](https://www.youtube.com/watch?v=JDDxR1a15Yo)<br>[💿 React Hooks Tutorial](https://www.youtube.com/playlist?list=PLN3n1USn4xlmyw3ebYuZmGp60mcENitdM)<br>[🖋 React의 렌더링 퍼포먼스 개선기 (부제: 수백개의 아이템을 가진 리스트를 개선하기)](https://minukang.medium.com/react%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%EA%B0%9C%EC%84%A0%EA%B8%B0-%EB%B6%80%EC%A0%9C-1000%EA%B0%9C-%EC%9D%B4%EC%83%81%EC%9D%98-%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%84-%EA%B0%80%EC%A7%84-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-8403a6c47b1c)<br>[🎥 React Suspense Introduction (Data Fetching)](https://www.youtube.com/watch?v=NTDJ-NQ32_E)<br>[🎥 Infinite Scrolling With React - Tutorial](https://www.youtube.com/watch?v=NZKUirTtxcg)<br>[🎥 React Lazy Loading & Code splitting](https://www.youtube.com/watch?v=tV9gvls8IP8)<br>[🎥 Code Splitting with React, React.lazy, and React Router v5](https://www.youtube.com/watch?v=0mQbxF-_S-M)|
 |React Native|[🎥 React Native Crash Course 2020](https://www.youtube.com/watch?v=Hf4MJH0jDb4)<br>[🎥 I don't *want* to use React Native](https://www.youtube.com/watch?v=E5xThvyaGbE)|
 |Redux|[🎥 [A2] Redux-Saga - 제너레이터, 사이드이펙트, 채널 - 이민규](https://www.youtube.com/watch?v=UxpREAHZ7Ck)|
 |Webpack|[🖋 프론트엔드 개발환경의 이해: 웹팩(기본)](https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)<br>[🖋 프론트엔드 개발환경의 이해: 웹팩(심화)](https://jeonghwan-kim.github.io/series/2020/01/02/frontend-dev-env-webpack-intermediate.html)<br>[🖋 How to change relative paths to absolute paths for imports](https://medium.com/@sherryhsu/how-to-change-relative-paths-to-absolute-paths-for-imports-32ba6cce18a5)<br>[📕 Public Path](https://webpack.js.org/guides/public-path/)<br>[❓ React-router urls don't work when refreshing or writing manually](https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writing-manually)<br>[📕 EnvironmentPlugin](https://webpack.js.org/plugins/environment-plugin/)<br>[🖋 Front에서 API Key를 숨기는 법](https://velog.io/@code-bebop/Front%EC%97%90%EC%84%9C-API-Key%EB%A5%BC-%EC%88%A8%EA%B8%B0%EB%8A%94-%EB%B2%95)|
@@ -129,14 +131,14 @@
 |Versioning|[📕 유의적 버전 2.0.0-ko2](https://semver.org/lang/ko/)<br>[🖋 Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)|
 |SSR|[🖋 웹 성능 최적화 SSR + Cache 적용기](https://medium.com/wantedjobs/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-ssr-cache-%EC%A0%81%EC%9A%A9%EA%B8%B0-bf022e3a1a72)<br>[🖋 React SSR 그 고통의 기록](https://www.seokjun.kim/react-ssr-the-record-of-pain/)<br>[🎥 Node 서버를 이용한 SSR 사용기](https://youtu.be/5M58QWto4s0?t=3)|
 |Design|[📕 Apple - Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)|
+|UX|[🎥 [A5] 개발자를 위한 UX programming - 윤지수](https://youtu.be/lRt3ecDm8AI)<br>[🖋 구글, 애플에 있는 UX 엔지니어가 토스에 있는 이유](https://blog.toss.im/2021/04/06/tossteam/insight/ux-engineer-interview/?fbclid=IwAR38LsidKxfP8wEiODy5YTGfMcdrjFPdFZk3kO_uA4Rre80ZZE48XDr4qnc)|
+|iframe|[🎥 [A3] iframe을 활용하여 전혀 다른 Service를 통합하기](https://www.youtube.com/watch?v=kZO5PEypjVg)|
+|Figma|🎥 [The Figma 2021 Crash Course by Example](https://www.youtube.com/watch?v=Gu1so3pz4bA)<br>🎥 [Figma in 40 Minutes](https://www.youtube.com/watch?v=4W4LvJnNegA)<br>🎥 [10 tips to work 10x faster in Figma](https://www.youtube.com/watch?v=i-9mgOL3mHw)<br>[🎥 How I organize my Figma files to overcome the creative block (with Template)](https://www.youtube.com/watch?v=C4LIC2n6pkw)<br>[🎥 Neumorphism in Figma 😍👌 \| Soft UI Design](https://www.youtube.com/watch?v=BFQHOQPpQlo)<br>[🎥 Neumorphic Animations in Figma \| Smart Animate \| Figma Tutorial](https://www.youtube.com/watch?v=fB7h2RxXpqA)<br>[🎥 Sketch and Design Icons in #Figma​ a #UI​/UX Design Tool](https://www.youtube.com/watch?v=I0ScEN6Le7M)|
 |CI/CD|[🖋 6) 스프링부트로 웹 서비스 출시하기 - 6. TravisCI & AWS CodeDeploy로 배포 자동화 구축하기](https://jojoldu.tistory.com/265)<br>[🖋 Github Actions + CodeDeploy + EC2 자동배포하기](https://www.notion.so/Github-Actions-CodeDeploy-EC2-6d74884a83ef47babce65b47dc130a1a)|
 |AWS|[🖋 7년 걸쳐 AWS로 이전'··· 넷플릭스 엔지니어가 설명하는 클라우드 여정](https://www.ciokorea.com/news/39567)|
 |Serverless|[🖋 Serverless와 기술도입, Backend Application의 미래](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5)|
 |Design System|[🖋 와디즈의 디자인 시스템 구축](https://medium.com/wadiz/%EC%99%80%EB%94%94%EC%A6%88%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%B6%95-c7f32a948814)<br>[🖋 Effective Atomic Design](https://blog.cobalt.run/posts/effective-atomic-design?fbclid=IwAR1WErrjNiXdFQsUODUxgc1UKh6PPhYFRtjzx1UzodXjhETiNZPPtzUfTwM)|
-|UX|[🎥 [A5] 개발자를 위한 UX programming - 윤지수](https://youtu.be/lRt3ecDm8AI)|
-|iframe|[🎥 [A3] iframe을 활용하여 전혀 다른 Service를 통합하기](https://www.youtube.com/watch?v=kZO5PEypjVg)|
 |Security|[🖋 웹 개발을 위해 꼭 알아야하는 보안 공격](https://kciter.so/posts/basic-web-hacking)|
-|Figma|🎥 [The Figma 2021 Crash Course by Example](https://www.youtube.com/watch?v=Gu1so3pz4bA)<br>🎥 [Figma in 40 Minutes](https://www.youtube.com/watch?v=4W4LvJnNegA)<br>🎥 [10 tips to work 10x faster in Figma](https://www.youtube.com/watch?v=i-9mgOL3mHw)<br>[🎥 How I organize my Figma files to overcome the creative block (with Template)](https://www.youtube.com/watch?v=C4LIC2n6pkw)<br>[🎥 Neumorphism in Figma 😍👌 \| Soft UI Design](https://www.youtube.com/watch?v=BFQHOQPpQlo)<br>[🎥 Neumorphic Animations in Figma \| Smart Animate \| Figma Tutorial](https://www.youtube.com/watch?v=fB7h2RxXpqA)<br>[🎥 Sketch and Design Icons in #Figma​ a #UI​/UX Design Tool](https://www.youtube.com/watch?v=I0ScEN6Le7M)|
 |Terms|[📃 Upsert](https://en.wiktionary.org/wiki/upsert)<br>[📃 Technological singularity](https://en.wikipedia.org/wiki/Technological_singularity)|
 |License|[📃 MIT 허가서](https://ko.m.wikipedia.org/wiki/MIT_%ED%97%88%EA%B0%80%EC%84%9C)|
 |Tech General|[🎥 Software Engineering "Best Practices"](https://www.youtube.com/watch?v=gc8mDZwUlfo&t=5s)<br>[🎥 The mind behind Linux \| Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE&t=157s)<br>[🖋 프로그래머로서의 성장을 도왔던 태도들](https://ahnheejong.name/articles/becoming-better-programmer/)<br>[🖋 소프트웨어는 녹이 슨다](https://blog.hongminhee.org/2014/04/13/82482810330/)<br>[🖋 Why Open Source misses the point of Free Software](https://www.gnu.org/philosophy/open-source-misses-the-point.html)<br>[🖋 평가방법 OKR, KPI, MBO 뭐가 다른거에요?](https://brunch.co.kr/@ywkim36/41)<br>[📚 개발자, 채용 가이드북](https://github.com/innovationacademy-kr/tech-hr)<br>[🎥 [A2] 한글 파일로부터 우리를 구원해줄 hwp.js](https://www.youtube.com/watch?v=GaAc4J2ST-c)<br>[🖋 Bug-O 노테이션](https://overreacted.io/ko/the-bug-o-notation/)<br>[🖋 Why review code? - Sophie Alpert](https://sophiebits.com/2018/12/25/why-review-code.html)|
