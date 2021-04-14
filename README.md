@@ -35,8 +35,17 @@
 |32|2021.04.02|Web|Feature|😱 UI Component Details|-|
 |33|2021.04.03|Web|Feature|😱 UI Component Details|-|
 |34|2021.04.04|Web|Feature|😱 UI Component Details|-|
-|35|2021.04.05|Web|Feature|📚 Read Books|-|
-|36|2021.04.06|Web|Feature|📚 Read Books|-|
+|35|2021.04.05|-|-|📚 Read Books|-|
+|36|2021.04.06|-|-|📚 Read Books|-|
+|37|2021.04.07|-|-|🕶 Break|-|
+|38|2021.04.08|-|-|🕶 Break|-|
+|39|2021.04.09|-|-|🕶 Break|-|
+|40|2021.04.10|-|-|🕶 Break|-|
+|41|2021.04.11|-|-|🕶 Break|-|
+|42|2021.04.12|-|-|🕶 Break|-|
+|43|2021.04.13|-|-|🕶 Break|-|
+|44|2021.04.14|-|-|🕶 Break|-|
+|45|2021.04.15|-|-|-|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -51,7 +60,12 @@
 |6|✅|Database|SQL Statements|2021.03.11|2021.03.11|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
 |7|✅|Docs|API Specification|2021.03.14|2021.03.14|[API Specification v0.1.0](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|
 |8|✅|Feature|Set up base APIs|2021.03.11|2021.03.16|-|
-|9|😱|Test|Unit & Integration Test with Jest|2021.03.24|2021.03.25|-|
+|9|😱|Database|Set up tables for Auth|2021.04.14|2021.04.14|-|
+|10|😱|Feature|Set up Auth APIs|2021.04.14|2021.04.14|-|
+|11|😱|Docs|API Specification for Auth APIs|2021.04.14|2021.04.14|-|
+|12|😱|Test|Unit & Integration Test for Auth APIs with Jest|2021.04.14|2021.04.14|-|
+|13|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
+|14|😱|CI/CD|Set up CI & CD|2021.04.14|2021.04.14|-|
 
 ### Web
 |No.||Category|To-Do|Start|End|Output|
@@ -65,9 +79,12 @@
 |7|✅|Docs|Component Hierarchy|2021.03.17|2021.03.17|[Component Hierarchy](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=87%3A794)|
 |8|✅|Feature|Set up UI components|2021.03.17|2021.03.18|-|
 |9|✅|Feature|Set up API, Redux, Redux-saga|2021.03.19|2021.03.21|-|
-|10|😱|Feature|UI Component Details|2021.03.22|2021.03.22|-|
-|11|😱|Test|Set up Storybook|2021.03.22|2021.03.23|-|
-|12|😱|Test|Unit & Integration Test with Jest & React Testing Library|2021.03.23|2021.03.24|-|
+|10|😱|Design|Set up Figma design for Auth|2021.04.14|2021.04.14|-|
+|11|😱|Feature|Set up UI components & Redux for Auth|2021.04.14|2021.04.14|-|
+|12|😱|Test|Set up Storybook|2021.04.14|2021.04.14|-|
+|13|😱|Test|Unit & Integration Test with Jest & React Testing Library|2021.04.14|2021.04.14|-|
+|14|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
+|15|😱|CI/CD|Set up CI & CD|2021.04.14|2021.04.14|-|
 
 
 ### Desktop
