@@ -43,8 +43,8 @@
 |40|2021.04.10|-|-|🕶 Break|-|
 |41|2021.04.11|-|-|🕶 Break|-|
 |42|2021.04.12|-|-|🕶 Break|-|
-|43|2021.04.13|-|-|🕶 Break|-|
-|44|2021.04.14|-|-|🕶 Break|-|
+|43|2021.04.13|-|-|🗑 Delete All Sources|-|
+|44|2021.04.14|API|Database|✅ Set up tables for Auth|-|
 |45|2021.04.15|-|-|-|-|
 
 
@@ -60,7 +60,7 @@
 |6|✅|Database|SQL Statements|2021.03.11|2021.03.11|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
 |7|✅|Docs|API Specification|2021.03.14|2021.03.14|[API Specification v0.1.0](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|
 |8|✅|Feature|Set up base APIs|2021.03.11|2021.03.16|-|
-|9|😱|Database|Set up tables for Auth|2021.04.14|2021.04.14|-|
+|9|✅|Database|Set up tables for Auth|2021.04.14|2021.04.14|-|
 |10|😱|Feature|Set up Auth APIs|2021.04.14|2021.04.14|-|
 |11|😱|Docs|API Specification for Auth APIs|2021.04.14|2021.04.14|-|
 |12|😱|Test|Unit & Integration Test for Auth APIs with Jest|2021.04.14|2021.04.14|-|
