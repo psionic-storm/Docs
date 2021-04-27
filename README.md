@@ -64,9 +64,9 @@
 |9|✅|Database|Set up tables for Auth|2021.04.14|2021.04.14|-|
 |10|😱|Feature|Set up Auth APIs|2021.04.14|2021.04.14|-|
 |11|😱|Docs|API Specification for Auth APIs|2021.04.14|2021.04.14|-|
-|12|😱|Test|Unit & Integration Test for Auth APIs with Jest|2021.04.14|2021.04.14|-|
+|12|✅|Test|Set up Test configs|2021.04.27|2021.04.27|-|
 |13|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
-|14|😱|CI/CD|Set up CI & CD|2021.04.14|2021.04.14|-|
+|15|✅|CI|Set up Github Actions|2021.04.27|2021.04.27|-|
 
 ### Web
 |No.||Category|To-Do|Start|End|Output|
@@ -82,10 +82,10 @@
 |9|✅|Feature|Set up API, Redux, Redux-saga|2021.03.19|2021.03.21|-|
 |10|😱|Design|Set up Figma design for Auth|2021.04.14|2021.04.14|-|
 |11|😱|Feature|Set up UI components & Redux for Auth|2021.04.14|2021.04.14|-|
-|12|😱|Test|Set up Storybook|2021.04.14|2021.04.14|-|
+|12|✅|Test|Set up Test configs|2021.04.27|2021.04.27|-|
 |13|😱|Test|Unit & Integration Test with Jest & React Testing Library|2021.04.14|2021.04.14|-|
 |14|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
-|15|😱|CI/CD|Set up CI & CD|2021.04.14|2021.04.14|-|
+|15|✅|CI|Set up Github Actions|2021.04.27|2021.04.27|-|
 
 
 ### Desktop
