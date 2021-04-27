@@ -45,7 +45,8 @@
 |42|2021.04.12|-|-|🕶 Break|-|
 |43|2021.04.13|-|-|🗑 Delete All Sources|-|
 |44|2021.04.14|API|Database|✅ Set up tables for Auth|-|
-|45|2021.04.15|-|-|-|-|
+|45|2021.04.15 - 2021.04.26|-|-|-|-|
+|46|2021.04.27|Web<br>Web<br>API<br>API|Test<br>CI<br>Test<br>CI|✅ Set up Test configs<br>✅ Set up Github Actions<br>✅ Set up Test configs<br>✅ Set up Github Actions|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
