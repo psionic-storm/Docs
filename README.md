@@ -47,6 +47,7 @@
 |44|2021.04.14|API|Database|✅ Set up tables for Auth|-|
 |45|2021.04.15 - 2021.04.26|-|-|-|-|
 |46|2021.04.27|Web<br>Web<br>API<br>API|Test<br>CI<br>Test<br>CI|✅ Set up Test configs<br>✅ Set up Github Actions<br>✅ Set up Test configs<br>✅ Set up Github Actions|-|
+|47|2021.04.28|Web|Design|✅ Set up Figma Auth Page|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -86,6 +87,7 @@
 |13|😱|Test|Unit & Integration Test with Jest & React Testing Library|2021.04.14|2021.04.14|-|
 |14|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
 |15|✅|CI|Set up Github Actions|2021.04.27|2021.04.27|-|
+|16|✅|Design|Set up Figma Auth Page|2021.04.28|2021.04.28|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|
 
 
 ### Desktop
@@ -111,6 +113,7 @@
 |9|API|Database|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|2021.03.11|
 |10|API|Docs|[API Specification v0.1.0](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|2021.03.14|
 |11|Web|Docs|[Component Hierarchy](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=87%3A794)|2021.03.17|
+|12|Web|Design|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|2021.04.28|
 
 ## 🐊 References
 📕 Official document  
