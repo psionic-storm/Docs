@@ -48,6 +48,7 @@
 |45|2021.04.15 - 2021.04.26|-|-|-|-|
 |46|2021.04.27|Web<br>Web<br>API<br>API|Test<br>CI<br>Test<br>CI|✅ Set up Test configs<br>✅ Set up Github Actions<br>✅ Set up Test configs<br>✅ Set up Github Actions|-|
 |47|2021.04.28|Web|Design|✅ Set up Figma Auth Page|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|
+|42|2021.04.29|Web|Feature|😱 Set up UI components for Auth|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -82,7 +83,7 @@
 |8|✅|Feature|Set up UI components|2021.03.17|2021.03.18|-|
 |9|✅|Feature|Set up API, Redux, Redux-saga|2021.03.19|2021.03.21|-|
 |10|😱|Design|Set up Figma design for Auth|2021.04.14|2021.04.14|-|
-|11|😱|Feature|Set up UI components & Redux for Auth|2021.04.14|2021.04.14|-|
+|11|😱|Feature|Set up UI components for Auth|2021.04.28|-|-|
 |12|✅|Test|Set up Test configs|2021.04.27|2021.04.27|-|
 |13|😱|Test|Unit & Integration Test with Jest & React Testing Library|2021.04.14|2021.04.14|-|
 |14|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
