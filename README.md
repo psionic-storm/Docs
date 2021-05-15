@@ -56,7 +56,8 @@
 |45|2021.04.15 - 2021.04.26|-|-|-|-|
 |46|2021.04.27|Web<br>Web<br>API<br>API|Test<br>CI<br>Test<br>CI|✅ Set up Test configs<br>✅ Set up Github Actions<br>✅ Set up Test configs<br>✅ Set up Github Actions|-|
 |47|2021.04.28|Web|Design|✅ Set up Figma Auth Page|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|
-|42|2021.04.29|Web|Feature|😱 Set up UI components for Auth|-|
+|48|2021.04.29|Web|Feature|😱 Set up UI components for Auth|-|
+|49|2021.04.30 - 2021.05.15|-|-|-|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
