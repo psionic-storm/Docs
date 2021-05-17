@@ -57,7 +57,8 @@
 |46|2021.04.27|Web<br>Web<br>API<br>API|Test<br>CI<br>Test<br>CI|✅ Set up Test configs<br>✅ Set up Github Actions<br>✅ Set up Test configs<br>✅ Set up Github Actions|-|
 |47|2021.04.28|Web|Design|✅ Set up Figma Auth Page|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|
 |48|2021.04.29|Web|Feature|😱 Set up UI components for Auth|-|
-|49|2021.04.30 - 2021.05.15|-|-|-|-|
+|49|2021.04.30 - 2021.05.16|-|-|-|-|
+|50|2021.05.17|Web<br>API|Env<br>Env|✅ Remove all sources & Install packages<br>✅ Remove all sources & Install packages|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -78,6 +79,8 @@
 |12|✅|Test|Set up Test configs|2021.04.27|2021.04.27|-|
 |13|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
 |14|✅|CI|Set up Github Actions|2021.04.27|2021.04.27|-|
+|15|✅|Env|Remove all sources & Install packages|2021.05.17|2021.05.17|-|
+
 
 ### Web
 |No.||Category|To-Do|Start|End|Output|
@@ -98,6 +101,7 @@
 |14|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
 |15|✅|CI|Set up Github Actions|2021.04.27|2021.04.27|-|
 |16|✅|Design|Set up Figma Auth Page|2021.04.28|2021.04.28|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|
+|17|✅|Env|Remove all sources & Install packages|2021.05.17|2021.05.17|-|
 
 
 ### Desktop
@@ -149,6 +153,7 @@
 |Webpack|[🖋 프론트엔드 개발환경의 이해: 웹팩(기본)](https://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)<br>[🖋 프론트엔드 개발환경의 이해: 웹팩(심화)](https://jeonghwan-kim.github.io/series/2020/01/02/frontend-dev-env-webpack-intermediate.html)<br>[🖋 How to change relative paths to absolute paths for imports](https://medium.com/@sherryhsu/how-to-change-relative-paths-to-absolute-paths-for-imports-32ba6cce18a5)<br>[📕 Public Path](https://webpack.js.org/guides/public-path/)<br>[❓ React-router urls don't work when refreshing or writing manually](https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writing-manually)<br>[📕 EnvironmentPlugin](https://webpack.js.org/plugins/environment-plugin/)<br>[🖋 Front에서 API Key를 숨기는 법](https://velog.io/@code-bebop/Front%EC%97%90%EC%84%9C-API-Key%EB%A5%BC-%EC%88%A8%EA%B8%B0%EB%8A%94-%EB%B2%95)|
 |Node.js|[🎥 Node.js API 서버 성능 개선기](https://youtu.be/3AMqUmrNido?t=1)<br>[🖋 What's New for Node.js in 2020](https://developer.okta.com/blog/2019/12/04/whats-new-nodejs-2020)<br>[🖋 nodejs의 내부 동작 원리 (libuv, 이벤트루프, 워커쓰레드, 비동기)](https://sjh836.tistory.com/149)<br>[🖋 Node.JS 자주 사용하는 모듈 정리](https://github.com/cheese10yun/node-yun)<br>[🖋 NodeJS: In Three(ish) Minutes.](https://menuand.tistory.com/m/3?category=817925)<br>[🖋 Node.js 이벤트루프 제대로 이해하기](https://tk-one.github.io/2019/02/07/nodejs-event-loop/)<br>[🖋 Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283?category=24)<br>[🖋 견고한 node.js 프로젝트 설계하기](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)|
 |npm|[📕 package-lock.json](https://docs.npmjs.com/cli/v7/configuring-npm/package-lock-json)<br>[🖋 package-lock.json은 왜 필요할까?](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)|
+|yarn|[📕 Yarn 3-Usage](https://yarnpkg.com/getting-started/usage)<br>[🖋 node_modules로부터 우리를 구원해 줄 Yarn Berry](https://toss.tech/article/node-modules-and-yarn-berry)|
 |Express.js|[📕 express.json([options])](https://expressjs.com/en/api.html#express.json)<br>[📕 express.urlencoded([options])](https://expressjs.com/en/api.html#express.urlencoded)|
 |Auth General|[🖋 Refresh token은 필요한가?](https://zzossig.io/posts/etc/what_is_the_point_of_refresh_token/)<br>[🎥 [10분 테코톡] 🎡토니의 인증과 인가](https://youtu.be/y0xMXlOAfss?t=1)<br>[🎥 How To Manage User Roles In Node.js](https://youtu.be/jI4K7L-LI58?t=1)<br>[🎥 NodeJS / Express Authorization Middleware](https://youtu.be/zYi9PguVFx8?t=1)<br>[🎥 Node.js & Express From Scratch [Part 11] - Access Control](https://www.youtube.com/watch?v=m-gLLTbBEE4)<br>[💿 WEB3 - Node.js - Cookie & Auth](https://www.youtube.com/playlist?list=PLuHgQVnccGMDo8561VLWTZox8Zs3K7K_m)<br>[💿 WEB4 - Express Session & Auth](https://www.youtube.com/playlist?list=PLuHgQVnccGMCHjWIDStjaZA2ZR-jwq-WU)<br>[💿 WEB2-OAuth](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4guyznDlykFJh28_R08Q-)<br>|
 |JWT|[🎥 JWT, TOKEN 토큰 베이스 로그인](https://www.youtube.com/watch?v=zC5dLbZMAW0)<br>[🎥 JWT 토큰](https://www.youtube.com/watch?v=MUUqogMpGiA)<br>[🎥 Introduction to JWT (JSON Web Token), The Good Parts](https://www.youtube.com/watch?v=7abbNwuCXbg&t=1s)<br>[🎥 JWT (JSON Web Tokens), Limitations](https://www.youtube.com/watch?v=THFmV5LPE6Y)<br>[🖋 JWT는 어디에 저장해야할까? - localStorage vs cookie](https://velog.io/@0307kwon/JWT%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-localStorage-vs-cookie)<br>[🖋 프론트에서 안전하게 로그인 처리하기 (ft. React)](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)<br>[🖋 LocalStorage vs Cookies: All You Need To Know About Storing JWT Tokens Securely in The Front-End](https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id)<br>[🖋 What’s the Secure Way to Store JWT?](https://medium.com/swlh/whats-the-secure-way-to-store-jwt-dd362f5b7914)<br>[🖋 The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://hasura.io/blog/best-practices-of-using-jwt-with-graphql/)|
