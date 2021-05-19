@@ -9,22 +9,22 @@
 |[Refresh Tokens](#user---get-my-userinfo)|POST|`/api/user/silent-refresh`|
 
 
-## User
-### Sign Up
+# User
+## Sign Up
 ```
 POST /api/user/sign-up
 ```
 
-#### Parameters
+### Parameters
 |Name|Type|In|Description|
 |-|-|-|-|
 |email|string|body|email|
 |password|string|body|password|
 
 ### Response
-`
+```
 Status: 201 Created
-`
+```
 ```
 {
     "email": "jungcome7@gmail.com",
