@@ -60,7 +60,7 @@
 |49|2021.04.30 - 2021.05.16|-|-|-|-|
 |50|2021.05.17|Web<br>API|Env<br>Env|✅ Remove all sources & Install packages<br>✅ Remove all sources & Install packages|-|
 |51|2021.05.18|API<br>API|Feature<br>Feature|✅ Set up tables for Auth<br>✅ Setup Auth APIs|-|
-|52|2021.05.19|API<br>Web|Feature<br>Feature|✅ API Specification for Auth APIs<br>✅ Set up UI components for Auth|-|
+|52|2021.05.19|API<br>Web|Feature<br>Feature|✅ API Specification for Auth APIs<br>✅ Set up UI components for Auth|[Swagger API Docs v1.0.0](https://app.swaggerhub.com/apis-docs/jungcome7/psionic-storm/1.0.0)<br>-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -81,7 +81,7 @@
 |12|✅|Env|Remove all sources & Install packages|2021.05.17|2021.05.17|-|
 |13|✅|Database|Set up tables for Auth|2021.04.14|2021.04.14|-|
 |14|✅|Feature|Set up Auth APIs|2021.05.18|2021.05.18|-|
-|15|✅|Docs|API Specification for Auth APIs|2021.05.19|2021.05.19|-|
+|15|✅|Docs|API Specification for Auth APIs|2021.05.19|2021.05.19|[Swagger API Docs v1.0.0](https://app.swaggerhub.com/apis-docs/jungcome7/psionic-storm/1.0.0)|
 
 
 ### Web
@@ -130,6 +130,7 @@
 |10|API|Docs|[API Specification v0.1.0](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|2021.03.14|
 |11|Web|Docs|[Component Hierarchy](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=87%3A794)|2021.03.17|
 |12|Web|Design|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|2021.04.28|
+|13|API|Docs|[Swagger API Docs v1.0.0](https://app.swaggerhub.com/apis-docs/jungcome7/psionic-storm/1.0.0)|2021.05.19|
 
 ## 🐊 References
 📕 Official document  
