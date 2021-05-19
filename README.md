@@ -59,6 +59,8 @@
 |48|2021.04.29|Web|Feature|😱 Set up UI components for Auth|-|
 |49|2021.04.30 - 2021.05.16|-|-|-|-|
 |50|2021.05.17|Web<br>API|Env<br>Env|✅ Remove all sources & Install packages<br>✅ Remove all sources & Install packages|-|
+|51|2021.05.18|API<br>API|Feature<br>Feature|✅ Set up tables for Auth<br>✅ Setup Auth APIs|-|
+|52|2021.05.19|API<br>Web|Feature<br>Feature|✅ API Specification for Auth APIs<br>✅ Set up UI components for Auth|-|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -73,13 +75,13 @@
 |6|✅|Database|SQL Statements|2021.03.11|2021.03.11|[SQL Statements](https://github.com/psionic-storm/Docs/blob/main/sql-statements.md)|
 |7|✅|Docs|API Specification|2021.03.14|2021.03.14|[API Specification v0.1.0](https://github.com/psionic-storm/Docs/blob/main/api-specification.md)|
 |8|✅|Feature|Set up base APIs|2021.03.11|2021.03.16|-|
-|9|✅|Database|Set up tables for Auth|2021.04.14|2021.04.14|-|
-|10|😱|Feature|Set up Auth APIs|2021.04.14|2021.04.14|-|
-|11|😱|Docs|API Specification for Auth APIs|2021.04.14|2021.04.14|-|
-|12|✅|Test|Set up Test configs|2021.04.27|2021.04.27|-|
-|13|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
-|14|✅|CI|Set up Github Actions|2021.04.27|2021.04.27|-|
-|15|✅|Env|Remove all sources & Install packages|2021.05.17|2021.05.17|-|
+|9|✅|Test|Set up Test configs|2021.04.27|2021.04.27|-|
+|10|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
+|11|✅|CI|Set up Github Actions|2021.04.27|2021.04.27|-|
+|12|✅|Env|Remove all sources & Install packages|2021.05.17|2021.05.17|-|
+|13|✅|Database|Set up tables for Auth|2021.04.14|2021.04.14|-|
+|14|✅|Feature|Set up Auth APIs|2021.05.18|2021.05.18|-|
+|15|✅|Docs|API Specification for Auth APIs|2021.05.19|2021.05.19|-|
 
 
 ### Web
@@ -94,14 +96,14 @@
 |7|✅|Docs|Component Hierarchy|2021.03.17|2021.03.17|[Component Hierarchy](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=87%3A794)|
 |8|✅|Feature|Set up UI components|2021.03.17|2021.03.18|-|
 |9|✅|Feature|Set up API, Redux, Redux-saga|2021.03.19|2021.03.21|-|
-|10|😱|Design|Set up Figma design for Auth|2021.04.14|2021.04.14|-|
-|11|😱|Feature|Set up UI components for Auth|2021.04.28|-|-|
-|12|✅|Test|Set up Test configs|2021.04.27|2021.04.27|-|
-|13|😱|Test|Unit & Integration Test with Jest & React Testing Library|2021.04.14|2021.04.14|-|
-|14|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
-|15|✅|CI|Set up Github Actions|2021.04.27|2021.04.27|-|
-|16|✅|Design|Set up Figma Auth Page|2021.04.28|2021.04.28|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|
-|17|✅|Env|Remove all sources & Install packages|2021.05.17|2021.05.17|-|
+|10|✅|Design|Set up Figma Auth Page|2021.04.28|2021.04.28|-|
+|11|✅|Test|Set up Test configs|2021.04.27|2021.04.27|-|
+|12|😱|Test|Unit & Integration Test with Jest & React Testing Library|2021.04.14|2021.04.14|-|
+|13|😱|Deploy|Deploy to AWS EC2|2021.04.14|2021.04.14|-|
+|14|✅|CI|Set up Github Actions|2021.04.27|2021.04.27|-|
+|15|✅|Design|Set up Figma Auth Page|2021.04.28|2021.04.28|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|
+|16|✅|Env|Remove all sources & Install packages|2021.05.17|2021.05.17|-|
+|17|✅|Feature|Set up UI components for Auth|2021.05.19|2021.05.19|-|
 
 
 ### Desktop
