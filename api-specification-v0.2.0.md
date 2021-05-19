@@ -3,10 +3,10 @@
 ## 😇 User 
 |Description|Method|Endpoint|
 |:-|:-|:-|
-|[Sign Up](#user---sign-up)|POST|`/api/user/sign-up`|
-|[Sign In](#user---sign-in)|POST|`/api/user/sign-in`|
-|[Get My UserInfo](#user---get-my-userinfo)|GET|`/api/user`|
-|[Refresh Tokens](#user---get-my-userinfo)|POST|`/api/user/silent-refresh`|
+|[Sign Up](#sign-up)|POST|`/api/user/sign-up`|
+|[Sign In](#sign-in)|POST|`/api/user/sign-in`|
+|[Get My UserInfo](#get-my-userinfo)|GET|`/api/user`|
+|[Refresh Tokens](#refresh-tokens)|POST|`/api/user/silent-refresh`|
 
 
 # 😇 User
