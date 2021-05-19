@@ -1,6 +1,6 @@
 # API Specification
 
-## User 
+## 😇 User 
 |Description|Method|Endpoint|
 |:-|:-|:-|
 |[Sign Up](#user---sign-up)|POST|`/api/user/sign-up`|
@@ -9,7 +9,7 @@
 |[Refresh Tokens](#user---get-my-userinfo)|POST|`/api/user/silent-refresh`|
 
 
-# User
+# 😇 User
 ## Sign Up
 ```
 POST /api/user/sign-up
