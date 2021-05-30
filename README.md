@@ -61,6 +61,8 @@
 |50|2021.05.17|Web<br>API|Env<br>Env|✅ Remove all sources & Install packages<br>✅ Remove all sources & Install packages|-|
 |51|2021.05.18|API<br>API|Feature<br>Feature|✅ Set up tables for Auth<br>✅ Setup Auth APIs|-|
 |52|2021.05.19|API<br>Web|Feature<br>Feature|✅ API Specification for Auth APIs<br>✅ Set up UI components for Auth|[API Specification v0.2.0](https://github.com/psionic-storm/Docs/blob/main/api-specification-v0.2.0.md)<br>-|
+|53|2021.05.20 - 2021.05.29|Web|Env|✅ Set up Yarn2 (berry)|
+|54|2021.05.30|Web|Env|✅ Set up Storybook (yarn2, alias, emotion)|
 
 
 ## 🦇 Tasks for Each Sub-Project
