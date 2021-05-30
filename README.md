@@ -106,6 +106,8 @@
 |15|✅|Design|Set up Figma Auth Page|2021.04.28|2021.04.28|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|
 |16|✅|Env|Remove all sources & Install packages|2021.05.17|2021.05.17|-|
 |17|✅|Feature|Set up UI components for Auth|2021.05.19|2021.05.19|-|
+|18|✅|Env|Set up Yarn2 (berry)|2021.05.20|2021.05.29|-|
+|19|✅|Env|Set up Storybook (yarn2, alias, emotion)|2021.05.30|2021.05.30|-|
 
 
 ### Desktop
