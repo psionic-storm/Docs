@@ -143,7 +143,7 @@
 📝 Academic paper  
 📚 Book  
 🖋 Blog post  
-🅶 Github Issue (discussion)
+🅶 Github Issue (discussion)  
 ❓ Stackoverflow    
 💿 Playlist  
 🎥 Video  
