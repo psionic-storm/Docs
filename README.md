@@ -62,7 +62,9 @@
 |51|2021.05.18|API<br>API|Feature<br>Feature|✅ Set up tables for Auth<br>✅ Setup Auth APIs|-|
 |52|2021.05.19|API<br>Web|Feature<br>Feature|✅ API Specification for Auth APIs<br>✅ Set up UI components for Auth|[API Specification v0.2.0](https://github.com/psionic-storm/Docs/blob/main/api-specification-v0.2.0.md)<br>-|
 |53|2021.05.20 - 2021.05.29|Web|Env|✅ Set up Yarn2 (berry)|
-|54|2021.05.30|Web|Env|✅ Set up Storybook (yarn2, alias, emotion)|
+|54|2021.05.31 - 2021.06.04|-|-|-|
+|55|2021.06.05|Web|Feature|✅ Set up redux-toolkit|
+|56|2021.06.06|Web|Feature|✅ Set up react-query|
 
 
 ## 🦇 Tasks for Each Sub-Project
@@ -108,6 +110,8 @@
 |17|✅|Feature|Set up UI components for Auth|2021.05.19|2021.05.19|-|
 |18|✅|Env|Set up Yarn2 (berry)|2021.05.20|2021.05.29|-|
 |19|✅|Env|Set up Storybook (yarn2, alias, emotion)|2021.05.30|2021.05.30|-|
+|20|✅|Feature|Set up redux-toolkit|2021.06.04|2021.06.04|-|
+|21|✅|Feature|Set up react-query|2021.06.05|2021.06.05|-|
 
 
 ### Desktop
