@@ -29,42 +29,24 @@
 |18|2021.03.19|Web|Feature|😱 Set up API, Redux, Redux-saga|-|
 |19|2021.03.20|Web|Feature|😱 Set up API, Redux, Redux-saga|-|
 |20|2021.03.21|Web|Feature|✅ Set up API, Redux, Redux-saga|-|
-|21|2021.03.22|-|-|🚑 Anal Disease|-|
-|22|2021.03.23|-|-|🚑 Anal Disease|-|
-|23|2021.03.24|-|-|🚑 Anal Disease|-|
-|24|2021.03.25|-|-|🚑 Anal Disease|-|
-|25|2021.03.26|Web|Feature|😱 UI Component Details|-|
-|26|2021.03.27|Web|Feature|😱 UI Component Details|-|
-|27|2021.03.28|Web|Feature|😱 UI Component Details|-|
-|28|2021.03.29|Web|Feature|😱 UI Component Details|-|
-|29|2021.03.30|Web|Feature|😱 UI Component Details|-|
-|30|2021.03.31|Web|Feature|😱 UI Component Details|-|
-|31|2021.04.01|Web|Feature|😱 UI Component Details|-|
-|32|2021.04.02|Web|Feature|😱 UI Component Details|-|
-|33|2021.04.03|Web|Feature|😱 UI Component Details|-|
-|34|2021.04.04|Web|Feature|😱 UI Component Details|-|
-|35|2021.04.05|-|-|📚 Read Books|-|
-|36|2021.04.06|-|-|📚 Read Books|-|
-|37|2021.04.07|-|-|🕶 Break|-|
-|38|2021.04.08|-|-|🕶 Break|-|
-|39|2021.04.09|-|-|🕶 Break|-|
-|40|2021.04.10|-|-|🕶 Break|-|
-|41|2021.04.11|-|-|🕶 Break|-|
-|42|2021.04.12|-|-|🕶 Break|-|
-|43|2021.04.13|-|-|🗑 Delete All Sources|-|
-|44|2021.04.14|API|Database|✅ Set up tables for Auth|-|
-|45|2021.04.15 - 2021.04.26|-|-|-|-|
-|46|2021.04.27|Web<br>Web<br>API<br>API|Test<br>CI<br>Test<br>CI|✅ Set up Test configs<br>✅ Set up Github Actions<br>✅ Set up Test configs<br>✅ Set up Github Actions|-|
-|47|2021.04.28|Web|Design|✅ Set up Figma Auth Page|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|
-|48|2021.04.29|Web|Feature|😱 Set up UI components for Auth|-|
-|49|2021.04.30 - 2021.05.16|-|-|-|-|
-|50|2021.05.17|Web<br>API|Env<br>Env|✅ Remove all sources & Install packages<br>✅ Remove all sources & Install packages|-|
-|51|2021.05.18|API<br>API|Feature<br>Feature|✅ Set up tables for Auth<br>✅ Setup Auth APIs|-|
-|52|2021.05.19|API<br>Web|Feature<br>Feature|✅ API Specification for Auth APIs<br>✅ Set up UI components for Auth|[API Specification v0.2.0](https://github.com/psionic-storm/Docs/blob/main/api-specification-v0.2.0.md)<br>-|
-|53|2021.05.20 - 2021.05.29|Web|Env|✅ Set up Yarn2 (berry)|
-|54|2021.05.31 - 2021.06.04|-|-|-|
-|55|2021.06.05|Web|Feature|✅ Set up redux-toolkit|
-|56|2021.06.06|Web|Feature|✅ Set up react-query|
+|21|2021.03.22 - 2021.03.25|-|-|🚑 Anal Disease|-|
+|22|2021.03.26 - 2021.04.04|Web|Feature|😱 UI Component Details|-|
+|23|2021.04.05 - 2021.04.06|-|-|📚 Read Books|-|
+|24|2021.04.07 - 2021.04.12|-|-|🕶 Break|-|
+|25|2021.04.13|-|-|🗑 Delete All Sources|-|
+|26|2021.04.14|API|Database|✅ Set up tables for Auth|-|
+|27|2021.04.15 - 2021.04.26|-|-|-|-|
+|28|2021.04.27|Web<br>Web<br>API<br>API|Test<br>CI<br>Test<br>CI|✅ Set up Test configs<br>✅ Set up Github Actions<br>✅ Set up Test configs<br>✅ Set up Github Actions|-|
+|29|2021.04.28|Web|Design|✅ Set up Figma Auth Page|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|
+|30|2021.04.29|Web|Feature|😱 Set up UI components for Auth|-|
+|31|2021.04.30 - 2021.05.16|-|-|-|-|
+|32|2021.05.17|Web<br>API|Env<br>Env|✅ Remove all sources & Install packages<br>✅ Remove all sources & Install packages|-|
+|33|2021.05.18|API<br>API|Feature<br>Feature|✅ Set up tables for Auth<br>✅ Setup Auth APIs|-|
+|34|2021.05.19|API<br>Web|Feature<br>Feature|✅ API Specification for Auth APIs<br>✅ Set up UI components for Auth|[API Specification v0.2.0](https://github.com/psionic-storm/Docs/blob/main/api-specification-v0.2.0.md)<br>-|
+|35|2021.05.20 - 2021.05.29|Web|Env|✅ Set up Yarn2 (berry)|
+|36|2021.05.31 - 2021.06.04|-|-|-|
+|37|2021.06.05|Web|Feature|✅ Set up redux-toolkit|
+|38|2021.06.06|Web|Feature|✅ Set up react-query|
 
 
 ## 🦇 Tasks for Each Sub-Project
