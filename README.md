@@ -1,3 +1,9 @@
+## Repositories
+[API](https://github.com/psionic-storm/API)
+<br/>
+[Web](https://github.com/psionic-storm/Web)
+
+## Stacks
 |Category|Stack|
 |-|-|
 |API|[TypeScript](https://github.com/microsoft/TypeScript), [Node](https://github.com/nodejs/node), [Express](https://github.com/expressjs/express), [Jest](https://github.com/facebook/jest), [Mysql](https://github.com/mysql), [Swagger](https://github.com/swagger-api), [Yarn-berry](https://github.com/yarnpkg/berry)|
@@ -6,7 +12,7 @@
 |Mobile|[React Native](https://github.com/facebook/react-native)|
 
 
-## 🐛 Daily Report
+## Daily Report
 |No.|Date|Project|Category|To-Do|Output|
 |:-:|:-:|:-:|:-:|:-|:-:|
 |1|2021.03.02|API<br>API|Env<br>Feature|✅ Set up development environment<br>✅ Local authentication|-<br>-|
@@ -49,7 +55,7 @@
 |38|2021.06.06|Web|Feature|✅ Set up react-query|
 
 
-## 🦇 Tasks for Each Sub-Project
+## Tasks for Each Sub-Project
 ### API
 |No.||Category|To-Do|Start|End|Output|
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|
@@ -105,7 +111,7 @@
 |:-:|:-:|:-:|:-|:-:|:-:|:-:|
 |1|😱|Env|Set up development environment|???|???|-|
 
-## 🐫 Outputs
+## Outputs
 |No.|Project|Category|Output|Date|
 |:-:|:-:|:-:|:-:|:-:|
 |1|API|Docs|[Mind map v0.1.0](https://miro.com/app/board/o9J_lRGt3MI=/)|2021.03.04|
@@ -122,7 +128,7 @@
 |12|Web|Design|[Figma Web v0.3.0](https://www.figma.com/file/g0bEjP9dW18Zjpgch7nXHU/Web?node-id=143%3A792)|2021.04.28|
 |13|API|Docs|[API Specification v0.2.0](https://github.com/psionic-storm/Docs/blob/main/api-specification-v0.2.0.md)|2021.05.19|
 
-## 🐊 References
+## References
 📕 Official document  
 📃 Semi-official document  
 🌎 Website  
